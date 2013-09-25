@@ -1,0 +1,66 @@
+> t5q4=read.table("t5q2.txt",header=T)
+> attach(t5q4)
+> model = lm(y ~x1+x2+x3+x4)
+> a = anova(model)
+> a
+Analysis of Variance Table
+
+Response: y
+          Df  Sum Sq Mean Sq  F value    Pr(>F)    
+x1         1 1450.08 1450.08 242.3679 2.888e-07 ***
+x2         1 1207.78 1207.78 201.8705 5.863e-07 ***
+x3         1    9.79    9.79   1.6370    0.2366    
+x4         1    0.25    0.25   0.0413    0.8441    
+Residuals  8   47.86    5.98                       
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> SSE = a$"Sum Sq"[5]
+> x5 = 2*x1+x2
+> x6 = x3+x4
+> model1=lm(y~x5+x6)
+> b = anova(model1)
+> b
+Analysis of Variance Table
+
+Response: y
+          Df  Sum Sq Mean Sq F value   Pr(>F)    
+x5         1 2653.61 2653.61 451.226 1.19e-09 ***
+x6         1    3.34    3.34   0.568   0.4684    
+Residuals 10   58.81    5.88                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> ## part (i)
+> (b$"Sum Sq"[3]-SSE)/2/(SSE/8)
+[1] 0.9147114
+> x5 = 12*x1+4*x2+x3
+> model2=lm(y~x5+x4)
+> c=anova(model2)
+> c
+Analysis of Variance Table
+
+Response: y
+          Df  Sum Sq Mean Sq  F value  Pr(>F)    
+x5         1 2646.35 2646.35 552.5743 4.4e-10 ***
+x4         1   21.52   21.52   4.4943 0.06003 .  
+Residuals 10   47.89    4.79                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> ## part(ii)
+> (c$"Sum Sq"[3]-SSE)/2/(SSE/8)
+[1] 0.002309037
+> x5 = x1+x2-x4
+> model3=lm(y~x5+x3)
+> c=anova(model3)
+> d=anova(model3)
+> d
+Analysis of Variance Table
+
+Response: y
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+x5         1 2224.97 2224.97 130.003 4.718e-07 ***
+x3         1  319.65  319.65  18.677  0.001509 ** 
+Residuals 10  171.15   17.11                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> (d$"Sum Sq"[3]-SSE)/2/(SSE/8)
+[1] 10.30291
