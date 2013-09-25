@@ -1,0 +1,28 @@
+t5q1 = read.table("t5q1.txt",header=T)
+attach(t5q1)
+model = lm(y~x1+x2)
+anova(model)
+Analysis of Variance Table
+
+Response: y
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+x1         1 1566.45 1566.45 215.947 1.778e-09 ***
+x2         1  306.25  306.25  42.219 2.011e-05 ***
+Residuals 13   94.30    7.25                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+fac.x1=factor(x1)
+fac.x2=factor(x2)
+model2=lm(y~fac.x1*fac.x2)
+anova(model.model2)
+Error in anova(model.model2) : object 'model.model2' not found
+anova(model,model2)
+Analysis of Variance Table
+
+Model 1: y ~ x1 + x2
+Model 2: y ~ fac.x1 * fac.x2
+  Res.Df  RSS Df Sum of Sq     F Pr(>F)
+1     13 94.3                          
+2      8 57.0  5      37.3 1.047  0.453
+
+

@@ -1,0 +1,49 @@
+t5q2=read.table("t5q2.txt",header=T)
+attach(t5q2)
+model = lm(y~x1+x2+x3+x4)
+summary(model)
+
+Call:
+lm(formula = y ~ x1 + x2 + x3 + x4)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-3.1750 -1.6709  0.2508  1.3783  3.9254 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)  
+(Intercept)  62.4054    70.0710   0.891   0.3991  
+x1            1.5511     0.7448   2.083   0.0708 .
+x2            0.5102     0.7238   0.705   0.5009  
+x3            0.1019     0.7547   0.135   0.8959  
+x4           -0.1441     0.7091  -0.203   0.8441  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.446 on 8 degrees of freedom
+Multiple R-squared:  0.9824,	Adjusted R-squared:  0.9736 
+F-statistic: 111.5 on 4 and 8 DF,  p-value: 4.756e-07
+
+## F = 111.5
+## R square = 0.9824
+##Prediction
+newx= data.frame(x1=c(7),x2=c(52),x3=c(6),x4=c(33))
+predict(model,newx,interval="conf",level=0.95)
+       fit      lwr      upr
+1 95.64924 92.27624 99.02225
+## end of prediction
+
+model2 = lm(y~x1+x2+x4+x3)
+
+a = anova(model2)
+## part(v)
+a$"Sum Sq"[4]/a$"Mean Sq"[5]
+[1] 0.01823347
+## part(vi)
+model3 = lm(y~x3+x4+x1+x2)
+b = anova(model3)
+SSR_x1_x2_given_x3_x4 = b$"Sum Sq"[3]+b$"Sum Sq"[4]
+SSR_x1_x2_given_x3_x4
+[1] 127.8744
+(SSR_x1_x2_given_x3_x4 /2)/(b$"Mean Sq"[5])
+[1] 10.68656
