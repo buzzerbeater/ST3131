@@ -1,0 +1,48 @@
+t4q2=read.table("t4q2.txt", header=T)
+attach(t4q2)
+model = lm (y~x1+x2)
+summary(model)
+
+Call:
+lm(formula = y ~ x1 + x2)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-4.400 -1.762  0.025  1.587  4.200 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  37.6500     2.9961  12.566 1.20e-08 ***
+x1            4.4250     0.3011  14.695 1.78e-09 ***
+x2            4.3750     0.6733   6.498 2.01e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.693 on 13 degrees of freedom
+Multiple R-squared:  0.9521,	Adjusted R-squared:  0.9447 
+F-statistic: 129.1 on 2 and 13 DF,  p-value: 2.658e-09
+
+anova(model)
+Analysis of Variance Table
+
+Response: y
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+x1         1 1566.45 1566.45 215.947 1.778e-09 ***
+x2         1  306.25  306.25  42.219 2.011e-05 ***
+Residuals 13   94.30    7.25                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+model2 = lm (y~x2+x1)
+anova(model2)
+Analysis of Variance Table
+
+Response: y
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+x2         1  306.25  306.25  42.219 2.011e-05 ***
+x1         1 1566.45 1566.45 215.947 1.778e-09 ***
+Residuals 13   94.30    7.25                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+1566.45/(94.30+1566.45)
+[1] 0.9432184
+
