@@ -1,0 +1,43 @@
+[buzzerbeater@localhost ST3131]$ R -s
+Tut3q2=read.table("t3q2.txt",header=T)
+attach(Tut3q2)
+model=lm(INFMOR ~ LITRAT+POPDEN+PHYCON)
+anova(model)
+Analysis of Variance Table
+
+Response: INFMOR
+          Df Sum Sq Mean Sq F value  Pr(>F)  
+LITRAT     1 838.83  838.83  5.2367 0.06208 .
+POPDEN     1  61.30   61.30  0.3827 0.55892  
+PHYCON     1 770.02  770.02  4.8071 0.07083 .
+Residuals  6 961.10  160.18                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+summary(model)
+
+Call:
+lm(formula = INFMOR ~ LITRAT + POPDEN + PHYCON)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-15.076  -4.450  -1.191   1.995  25.154 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)  
+(Intercept) 260.35282   81.57214   3.192   0.0188 *
+LITRAT       -2.16193    0.77010  -2.807   0.0309 *
+POPDEN        0.06169    0.06391   0.965   0.3717  
+PHYCON       -0.02818    0.01285  -2.193   0.0708 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 12.66 on 6 degrees of freedom
+Multiple R-squared:  0.6347,	Adjusted R-squared:  0.4521 
+F-statistic: 3.475 on 3 and 6 DF,  p-value: 0.09073
+    
+new = data.frame(LITRAT=c(90),POPDEN=c(150),PHYCON=c(875))
+predict(model,new,interval="conf",level=0.90)
+       fit      lwr      upr
+1 50.37353 36.43324 64.31383
+
+
