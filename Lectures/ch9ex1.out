@@ -1,0 +1,124 @@
+> model1234<- lm(y~x1+x2+x3+x4)
+> model1234
+
+Call:
+lm(formula = y ~ x1 + x2 + x3 + x4)
+
+Coefficients:
+(Intercept)           x1           x2           x3           x4  
+    62.4054       1.5511       0.5102       0.1019      -0.1441  
+
+> x<-model.matrix(model1234)[,-1]
+> x
+   x1 x2 x3 x4
+1   7 26  6 60
+2   1 29 15 52
+3  11 56  8 20
+4  11 31  8 47
+5   7 52  6 33
+6  11 55  9 22
+7   3 71 17  6
+8   1 31 22 44
+9   2 54 18 22
+10 21 47  4 26
+11  1 40 23 34
+12 11 66  9 12
+13 10 68  8 12
+> allRsqure<-leaps(x,y,method="r2")
+Error: could not find function "leaps"
+> library(leaps)
+> allRsqure<-leaps(x,y,method="r2")
+> allRsquare
+Error: object 'allRsquare' not found
+> allRsquare<-leaps(x,y,method="r2")
+> allRsquare
+$which
+      1     2     3     4
+1 FALSE FALSE FALSE  TRUE
+1 FALSE  TRUE FALSE FALSE
+1  TRUE FALSE FALSE FALSE
+1 FALSE FALSE  TRUE FALSE
+2  TRUE  TRUE FALSE FALSE
+2  TRUE FALSE FALSE  TRUE
+2 FALSE FALSE  TRUE  TRUE
+2 FALSE  TRUE  TRUE FALSE
+2 FALSE  TRUE FALSE  TRUE
+2  TRUE FALSE  TRUE FALSE
+3  TRUE  TRUE FALSE  TRUE
+3  TRUE  TRUE  TRUE FALSE
+3  TRUE FALSE  TRUE  TRUE
+3 FALSE  TRUE  TRUE  TRUE
+4  TRUE  TRUE  TRUE  TRUE
+
+$label
+[1] "(Intercept)" "1"           "2"           "3"           "4"          
+
+$size
+ [1] 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5
+
+$r2
+ [1] 0.6745420 0.6662683 0.5339480 0.2858727 0.9786784 0.9724710 0.9352896
+ [8] 0.8470254 0.6800604 0.5481667 0.9823355 0.9822847 0.9812811 0.9728200
+[15] 0.9823756
+
+> for(i in 2:5){
++ maxR2 <- max(allRsquare$r2[allRsquare$size==i])
++ whichmodel <-allRsquare$which[allRsquare$r2==maxR2,]
++ namemodel <- names(whichmodel)[whichmodel==T]
++ cat(namemodel,"\n",maxR2,"\n")}
+4 
+ 0.674542 
+1 2 
+ 0.9786784 
+1 2 4 
+ 0.9823355 
+1 2 3 4 
+ 0.9823756 
+> 
+> ## Cp
+> allCp <-leaps(x,y,method="Cp")
+> allCp
+$which
+      1     2     3     4
+1 FALSE FALSE FALSE  TRUE
+1 FALSE  TRUE FALSE FALSE
+1  TRUE FALSE FALSE FALSE
+1 FALSE FALSE  TRUE FALSE
+2  TRUE  TRUE FALSE FALSE
+2  TRUE FALSE FALSE  TRUE
+2 FALSE FALSE  TRUE  TRUE
+2 FALSE  TRUE  TRUE FALSE
+2 FALSE  TRUE FALSE  TRUE
+2  TRUE FALSE  TRUE FALSE
+3  TRUE  TRUE FALSE  TRUE
+3  TRUE  TRUE  TRUE FALSE
+3  TRUE FALSE  TRUE  TRUE
+3 FALSE  TRUE  TRUE  TRUE
+4  TRUE  TRUE  TRUE  TRUE
+
+$label
+[1] "(Intercept)" "1"           "2"           "3"           "4"          
+
+$size
+ [1] 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5
+
+$Cp
+ [1] 138.730833 142.486407 202.548769 315.154284   2.678242   5.495851
+ [7]  22.373112  62.437716 138.225920 198.094653   3.018233   3.041280
+[13]   3.496824   7.337474   5.000000
+
+> for(i in 2:5){
++ minCp <- min(allCp$Cp[allCp$size==i])
++ whichmodel <- allCp$which[allCp$Cp==minCp,]
++ namemodel <- names(whichmodel)[whichmodel==T]
++ cat(namemodel,"\n",minCp,"\n")}
+4 
+ 138.7308 
+1 2 
+ 2.678242 
+1 2 4 
+ 3.018233 
+1 2 3 4 
+ 5 
+> 
+
