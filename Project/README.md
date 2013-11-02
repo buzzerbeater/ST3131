@@ -1,6 +1,6 @@
 ## ST3131 Project
 
-The program code folder hosts our source codes of the project. The output folder contains the SAS output by executing our source code. The following is our plots of the project.
+The program code folder hosts our source codes of the project. The output folder contains the SAS output by executing our source code. The followings are our plots of the project.
 
 #### Correlation Matrix
 
