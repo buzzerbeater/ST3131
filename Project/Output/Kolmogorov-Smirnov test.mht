@@ -1,0 +1,1913 @@
+From: "Saved by Windows Internet Explorer 10"
+Subject: SAS Output
+Date: Sat, 2 Nov 2013 13:24:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_004F_01CED7CE.E8186230"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.2.9200.16384
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_004F_01CED7CE.E8186230
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\User\sashtml24.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+<TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 10.00.9200.16721">
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.aftercaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; PADDING-TOP: 4pt; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.batch {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: 'SAS =
+Monospace', 'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px =
+solid; BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; PADDING-BOTTOM: 7px; FONT-STYLE: =
+normal; PADDING-TOP: 7px; PADDING-LEFT: 7px; BORDER-SPACING: 1px; =
+BORDER-LEFT: #c1c1c1 1px solid; PADDING-RIGHT: 7px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.beforecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.body {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; MARGIN-LEFT: =
+8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.byline {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.bylinecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.caption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.cell {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.container {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contentprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contents {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contenttitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.continued {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: left; =
+BORDER-SPACING: 0px; WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.data {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.dataemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.dataempty {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datafixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: =
+#c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: =
+#c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datastrong {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.datastrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.date {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.document {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.errorcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.errorcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.extendedpage {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 1pt solid; =
+BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; TEXT-ALIGN: center; BORDER-LEFT: #000000 1pt solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.fatalcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.footer {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasis {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.footeremphasisfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.footerempty {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #edf2f9
+}
+.footerstrong {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerstrongfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.frame {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.graph {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.header {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headersandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.index {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.indextitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.layoutcontainer {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.list {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.listitem {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.note {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notebanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.notecontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notecontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.output {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.pageno {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pages {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.pagesproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagesprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagestitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.paragraph {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.parskip {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: bold; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BORDER-LEFT: #000000 0px solid
+}
+.prepage {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.proctitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.proctitlefixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.rowfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasis {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowfooteremphasisfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterempty {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrong {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterstrongfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheader {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.systemfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle10 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle2 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle3 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle4 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle5 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle6 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle7 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle8 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle9 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systitleandfootercontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.table {
+	BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 0px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 0px solid; =
+BORDER-SPACING: 0px; BORDER-LEFT: #c1c1c1 1px solid
+}
+.top_stacked_value {
+	PADDING-BOTTOM: 1px
+}
+.middle_stacked_value {
+	PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.bottom_stacked_value {
+	PADDING-TOP: 1px
+}
+.titleandnotecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.titlesandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.usertext {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.warnbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.warncontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warncontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY class=3Dbody onload=3Dstartup() onunload=3Dshutdown()>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+var _info =3D navigator.userAgent
+var _ie =3D (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 =3D _info.indexOf("x64") > 0
+
+//-->
+</SCRIPT>
+
+<DIV class=3Dbranch><A name=3DIDX></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">Residual =
+Plots</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The GLM Procedure</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure GLM: Number of Observations" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Read</TH>
+    <TD class=3D"r data">47</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Used</TH>
+    <TD class=3D"r data">47</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX1></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">Residual =
+Plots</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The GLM Procedure</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">Dependent Variable: H </DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure GLM: Overall ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">4</TD>
+    <TD class=3D"r data">618.3552266</TD>
+    <TD class=3D"r data">154.5888067</TD>
+    <TD class=3D"r data">56.57</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">42</TD>
+    <TD class=3D"r data">114.7647211</TD>
+    <TD class=3D"r data">2.7324934</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">46</TD>
+    <TD class=3D"r data">733.1199477</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX2></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure GLM: Fit Statistics" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>R-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>Coeff Var</TH>
+    <TH class=3D"r b header" scope=3Dcol>Root MSE</TH>
+    <TH class=3D"r b header" scope=3Dcol>H&nbsp;Mean</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">0.843457</TD>
+    <TD class=3D"r data">1.982558</TD>
+    <TD class=3D"r data">1.653026</TD>
+    <TD class=3D"r =
+data">83.37842</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX3></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure GLM: Type I Model ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type I SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">37.0758599</TD>
+    <TD class=3D"r data">37.0758599</TD>
+    <TD class=3D"r data">13.57</TD>
+    <TD class=3D"r data">0.0007</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">544.5715540</TD>
+    <TD class=3D"r data">544.5715540</TD>
+    <TD class=3D"r data">199.29</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">28.6800572</TD>
+    <TD class=3D"r data">28.6800572</TD>
+    <TD class=3D"r data">10.50</TD>
+    <TD class=3D"r data">0.0023</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>LAGH</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">8.0277555</TD>
+    <TD class=3D"r data">8.0277555</TD>
+    <TD class=3D"r data">2.94</TD>
+    <TD class=3D"r =
+data">0.0939</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX4></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure GLM: Type III Model ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type III SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">15.4955319</TD>
+    <TD class=3D"r data">15.4955319</TD>
+    <TD class=3D"r data">5.67</TD>
+    <TD class=3D"r data">0.0219</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">291.0006260</TD>
+    <TD class=3D"r data">291.0006260</TD>
+    <TD class=3D"r data">106.50</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">26.4495425</TD>
+    <TD class=3D"r data">26.4495425</TD>
+    <TD class=3D"r data">9.68</TD>
+    <TD class=3D"r data">0.0033</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>LAGH</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">8.0277555</TD>
+    <TD class=3D"r data">8.0277555</TD>
+    <TD class=3D"r data">2.94</TD>
+    <TD class=3D"r =
+data">0.0939</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX5></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure GLM: Solution" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Parameter</TH>
+    <TH class=3D"r b header" scope=3Dcol>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>t&nbsp;Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;|t|</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">730.7199642</TD>
+    <TD class=3D"r data">233.2825594</TD>
+    <TD class=3D"r data">3.13</TD>
+    <TD class=3D"r data">0.0032</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data" noWrap>-0.5428443</TD>
+    <TD class=3D"r data">0.2279563</TD>
+    <TD class=3D"r data" noWrap>-2.38</TD>
+    <TD class=3D"r data">0.0219</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-3.8489200</TD>
+    <TD class=3D"r data">0.3729679</TD>
+    <TD class=3D"r data" noWrap>-10.32</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.4301494</TD>
+    <TD class=3D"r data">0.4596761</TD>
+    <TD class=3D"r data" noWrap>-3.11</TD>
+    <TD class=3D"r data">0.0033</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>LAGH</TH>
+    <TD class=3D"r data">0.1189111</TD>
+    <TD class=3D"r data">0.0693753</TD>
+    <TD class=3D"r data">1.71</TD>
+    <TD class=3D"r =
+data">0.0939</TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV>
+<DIV class=3Dbranch>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX6></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">Residual =
+Plots</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The UNIVARIATE Procedure</DIV>
+<DIV class=3D"c proctitle">Variable: res</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Univariate: Moments" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 =
+scope=3Dcolgroup>Moments</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>N</TH>
+    <TD class=3D"r data">47</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Sum Weights</TH>
+    <TD class=3D"r data">47</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Mean</TH>
+    <TD class=3D"r data">0</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Sum Observations</TH>
+    <TD class=3D"r data">0</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Std Deviation</TH>
+    <TD class=3D"r data">1.57952057</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Variance</TH>
+    <TD class=3D"r data">2.49488524</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Skewness</TH>
+    <TD class=3D"r data" noWrap>-0.5777809</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Kurtosis</TH>
+    <TD class=3D"r data">0.29394543</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Uncorrected SS</TH>
+    <TD class=3D"r data">114.764721</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected SS</TH>
+    <TD class=3D"r data">114.764721</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Coeff Variation</TH>
+    <TD class=3D"r data">.</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Std Error Mean</TH>
+    <TD class=3D"r =
+data">0.23039675</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX7></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Univariate: Basic Measures of Location and =
+Variability"=20
+frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Basic =
+Statistical=20
+    Measures</TH></TR>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>Location</TH>
+    <TH class=3D"c b header" colSpan=3D2 =
+scope=3Dcolgroup>Variability</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Mean</TH>
+    <TD class=3D"r data">0.000000</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Std Deviation</TH>
+    <TD class=3D"r data">1.57952</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Median</TH>
+    <TD class=3D"r data">0.207254</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Variance</TH>
+    <TD class=3D"r data">2.49489</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Mode</TH>
+    <TD class=3D"r data">.</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Range</TH>
+    <TD class=3D"r data">7.12958</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Interquartile Range</TH>
+    <TD class=3D"r =
+data">1.97212</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX8></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Univariate: Tests For Location" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5=20
+      =
+scope=3Dcolgroup>Tests&nbsp;for&nbsp;Location:&nbsp;Mu0=3D0</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>Statistic</TH>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>p =
+Value</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Student's t</TH>
+    <TH class=3D"l rowheader" scope=3Drow>t</TH>
+    <TD class=3D"r data">0</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Pr &gt; |t|</TH>
+    <TD class=3D"r data">1.0000</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Sign</TH>
+    <TH class=3D"l rowheader" scope=3Drow>M</TH>
+    <TD class=3D"r data">3.5</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Pr &gt;=3D |M|</TH>
+    <TD class=3D"r data">0.3817</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Signed Rank</TH>
+    <TH class=3D"l rowheader" scope=3Drow>S</TH>
+    <TD class=3D"r data">34</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Pr &gt;=3D |S|</TH>
+    <TD class=3D"r =
+data">0.7231</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX9></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Univariate: Quantiles" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D2=20
+      scope=3Dcolgroup>Quantiles&nbsp;(Definition&nbsp;5)</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Quantile</TH>
+    <TH class=3D"r b header" scope=3Dcol>Estimate</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>100% Max</TH>
+    <TD class=3D"r data">2.672560</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>99%</TH>
+    <TD class=3D"r data">2.672560</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>95%</TH>
+    <TD class=3D"r data">2.319833</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>90%</TH>
+    <TD class=3D"r data">1.869009</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>75% Q3</TH>
+    <TD class=3D"r data">1.150786</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>50% Median</TH>
+    <TD class=3D"r data">0.207254</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>25% Q1</TH>
+    <TD class=3D"r data" noWrap>-0.821332</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>10%</TH>
+    <TD class=3D"r data" noWrap>-2.336054</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>5%</TH>
+    <TD class=3D"r data" noWrap>-2.872193</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>1%</TH>
+    <TD class=3D"r data" noWrap>-4.457016</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>0% Min</TH>
+    <TD class=3D"r data" =
+noWrap>-4.457016</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX10></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Univariate: Extreme Observations" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D4 scope=3Dcolgroup>Extreme =
+Observations</TH></TR>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>Lowest</TH>
+    <TH class=3D"c b header" colSpan=3D2 =
+scope=3Dcolgroup>Highest</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Value</TH>
+    <TH class=3D"r b header" scope=3Dcol>Obs</TH>
+    <TH class=3D"r b header" scope=3Dcol>Value</TH>
+    <TH class=3D"r b header" scope=3Dcol>Obs</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data" noWrap>-4.45702</TD>
+    <TD class=3D"r data">39</TD>
+    <TD class=3D"r data">1.86901</TD>
+    <TD class=3D"r data">21</TD></TR>
+  <TR>
+    <TD class=3D"r data" noWrap>-3.01429</TD>
+    <TD class=3D"r data">35</TD>
+    <TD class=3D"r data">2.28830</TD>
+    <TD class=3D"r data">4</TD></TR>
+  <TR>
+    <TD class=3D"r data" noWrap>-2.87219</TD>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">2.31983</TD>
+    <TD class=3D"r data">10</TD></TR>
+  <TR>
+    <TD class=3D"r data" noWrap>-2.52232</TD>
+    <TD class=3D"r data">33</TD>
+    <TD class=3D"r data">2.63492</TD>
+    <TD class=3D"r data">18</TD></TR>
+  <TR>
+    <TD class=3D"r data" noWrap>-2.33605</TD>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">2.67256</TD>
+    <TD class=3D"r data">13</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX11></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">Residual =
+Plots</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The UNIVARIATE Procedure</DIV>
+<DIV class=3D"c proctitle">Fitted Normal Distribution for res</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Univariate: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Parameters for =
+Normal=20
+      Distribution</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Parameter</TH>
+    <TH class=3D"l b header" scope=3Dcol>Symbol</TH>
+    <TH class=3D"r b header" scope=3Dcol>Estimate</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Mean</TH>
+    <TD class=3D"l data">Mu</TD>
+    <TD class=3D"r data">0</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Std Dev</TH>
+    <TD class=3D"l data">Sigma</TD>
+    <TD class=3D"r =
+data">1.579521</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX12></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Univariate: Goodness of Fit" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 =
+scope=3Dcolgroup>Goodness-of-Fit Tests for=20
+      Normal Distribution</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Test</TH>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>Statistic</TH>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>p =
+Value</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Kolmogorov-Smirnov</TH>
+    <TH class=3D"l rowheader" scope=3Drow>D</TH>
+    <TD class=3D"r data">0.07771585</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Pr &gt; D</TH>
+    <TD class=3D"r data">&gt;0.150</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Cramer-von Mises</TH>
+    <TH class=3D"l rowheader" scope=3Drow>W-Sq</TH>
+    <TD class=3D"r data">0.06130576</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Pr &gt; W-Sq</TH>
+    <TD class=3D"r data">&gt;0.250</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Anderson-Darling</TH>
+    <TH class=3D"l rowheader" scope=3Drow>A-Sq</TH>
+    <TD class=3D"r data">0.39068922</TD>
+    <TH class=3D"l rowheader" scope=3Drow>Pr &gt; A-Sq</TH>
+    <TD class=3D"r =
+data">&gt;0.250</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX13></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Univariate: Quantiles" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D3 scope=3Dcolgroup>Quantiles for =
+Normal=20
+      Distribution</TH></TR>
+  <TR>
+    <TH class=3D"r b header" rowSpan=3D2 scope=3Dcol>Percent</TH>
+    <TH class=3D"c b header" colSpan=3D2 =
+scope=3Dcolgroup>Quantile</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Observed</TH>
+    <TH class=3D"r b header" scope=3Dcol>Estimated</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1.0</TH>
+    <TD class=3D"r data" noWrap>-4.45702</TD>
+    <TD class=3D"r data" noWrap>-3.67451</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5.0</TH>
+    <TD class=3D"r data" noWrap>-2.87219</TD>
+    <TD class=3D"r data" noWrap>-2.59808</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10.0</TH>
+    <TD class=3D"r data" noWrap>-2.33605</TD>
+    <TD class=3D"r data" noWrap>-2.02424</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>25.0</TH>
+    <TD class=3D"r data" noWrap>-0.82133</TD>
+    <TD class=3D"r data" noWrap>-1.06537</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>50.0</TH>
+    <TD class=3D"r data">0.20725</TD>
+    <TD class=3D"r data">0.00000</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>75.0</TH>
+    <TD class=3D"r data">1.15079</TD>
+    <TD class=3D"r data">1.06537</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>90.0</TH>
+    <TD class=3D"r data">1.86901</TD>
+    <TD class=3D"r data">2.02424</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>95.0</TH>
+    <TD class=3D"r data">2.31983</TD>
+    <TD class=3D"r data">2.59808</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>99.0</TH>
+    <TD class=3D"r data">2.67256</TD>
+    <TD class=3D"r =
+data">3.67451</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX14></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">Residual =
+Plots</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The UNIVARIATE Procedure</DIV>
+<P>
+<DIV>
+<DIV class=3Dc><IMG class=3Dc style=3D"HEIGHT: 480px; WIDTH: 640px" =
+border=3D0=20
+alt=3D"Q-Q plot for res" src=3D"file:///C:/Users/User/QQPlot1.png">=20
+</DIV></DIV><BR></DIV>
+<DIV class=3Dbranch>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX15></A>
+<DIV>
+<DIV class=3Dc><IMG class=3D"c graph"=20
+style=3D"BORDER-LEFT-WIDTH: 0px; HEIGHT: 600px; BORDER-RIGHT-WIDTH: 0px; =
+BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 800px"=20
+border=3D0 alt=3D"Plot of res by yhat" =
+src=3D"file:///C:/Users/User/gplot1.png">=20
+</DIV></DIV><BR></DIV></BODY></HTML>
+
+------=_NextPart_000_004F_01CED7CE.E8186230
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/User/QQPlot1.png
+
+iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgCAIAAAC6s0uzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAg
+AElEQVR4nO3df5RU5X0/8DuwO7AIUklSNSqN2NgCFQQRVLoeS9iIgLQcpf6I2qPSDWwMxtOc2uQQ
+azExpfkKURSUGH8SY02VenCFlj0kkRDjFqqzsdpa9TScbj0oHDy4EV1g5/vHJOM4syy7y848d2Ze
+r7N/zN575+7HEfbN89znRyKVSkUAQGnVRFE0YcKE0GUAQBVpa2sbFLoGAKhGAhgAAhDAABCAAAaA
+AAQwAAQggAEgAAEMAAEIYAAIQAADQAACGAACEMAAEIAABoAABDCUyL333jtlypRhw4YNGzZs2rRp
+Dz/88AC+JZFj6NChJ5544vLly/POHk3xP/7xj6dNm5ZMJocNG/Ynf/InR3Mr4DdSqVQaKLIrr7yy
+8G/fjTfeOFBv6fZv9x133JF79ohF/vznP7/gggu6PfXpT386e9vLL7/8iLcCepZKpQQwFN1jjz0W
+RdGIESMeeuihAwcOHDp0aN26dSNGjIiiaMuWLQPyltyIPXDgwO233x5F0cknn1x4tgc9XJY5tXv3
+7nQ6/eGHH/bmvxrogQCGUrjwwgujKFqzZk3uwfvuuy+KogULFgzIWwqzM4qi2trabs8+8cQT48eP
+r62t/YM/+IP169fnXpNVePO8U93eJHvxQw89NGLEiPPOO6/bOvPOrlu37rOf/Wxtbe0ZZ5yxYcOG
+7MX/8R//8cd//Me1tbV1dXUXXHDBzp07u/2soBwJYCiFY445JoqiX//617kH9+/fH0XRJz/5yQF5
+S14L+Jvf/GYURWPGjCk8u3HjxrxAzTSp+xTAh7tJ3sXz58/vts7cs83NzXm3+vnPf565ePz48bnH
+p06d2uPHDOVEAEMp1NbWRt117UY5jdSjfEvUnZUrV+aezby+4IILoihqbGw8cOBAY2NjFEXnn39+
+4WXd3j/77RFvctNNN6XT6TfeeKPb++SePf/886Mo2rhxYzqd/slPfhLlNPEHDx4cRZGGLxUplUol
+UqnUhAkTuv3bCwyIYcOG7d+//8MPP0wmk9mDXV1dgwcPrqure//996Moyh2lnE6ne/OWXLlvHzJk
+yGc+85klS5Y0NTXlnk2n01EUDR069MMPP8zcubOzc8iQIXk1pLuL87xTR7zJzp07TznllMPdJ/ds
+5la514wYMWLfvn1RFF1//fUPPPDA4MGDp02b9vnPf37JkiXHHXfcYT9lKCttbW2mIUHRZRp5//iP
+/xhF0aWXXrpkyZI9e/ZkpglNmjRpoN4S/baF+sEHH/znf/5nNn2D6DZ9uz3b1dWVdzb7z4v77rvv
+1ltvnTVr1v/8z//ceuutl1566YDXCSHpgoZiywxp/t3f/d3nnnvuJz/5yQknnJD9C5jtJT7Kt2RO
+Ha6A3LOZaM/tPc5OPcpctn///vfee6/n+x/xJr2pJOOss86Koqi5uflwb0mn07t3744O310P5cgz
+YCiR6667rvCfvzNmzBiot/Q+9tavX593z+eeey5zKtvBWzjTN+/+PdykrwH8+OOP593qwgsvzJw6
+55xzco8XjqmG8pVKpXRBQyl8//vfX79+/UUXXTRkyJCTTz555cqVF110UUdHx44dOwbwLb3xZ3/2
+Z0888cQZZ5xRW1s7duzY5ubm+vr6zKk77rjjhBNOqK2t3blzZ79v0leXXXbZAw88MHbs2MGDB48c
+OfJLX/rSD3/4w8ypp5566pJLLqmrq6utrb3wwgufeOKJ/v0IiCeDsCCMzs7Ov/zLvxwxYsTdd99d
+vLcA8dTW1iaAAaDUjIIGgDAEMAAEIIABIAABDAABCGAACEAAA0AAAhgAAqgJXUD//eBHT3V0dISu
+AgDyffqE4y++6MKerynjAO7o6PjitdeErgIA8t334CNHvEYXNAAEELsAfv7553O3FgeAihS7AF66
+dGnoEgCg6OIVwM8//3xXV1foKgCg6OIVwEuXLr399ttDVwEARRejAM40f88999zQhQBA0cVoGlLP
+zd/tL6Z2vJQqZT0AUDwxCuAtW7acd955mdeJRCKdTueenTJp4pRJE3OP9GaWFQDEU4wCOJu4hekL
+ABUmRs+AAaB6xDGANX8BqHhxDGAAqHgCGAACEMAAEIAABoAABDAABCCAASAAAQwAAQhgAAhAAANA
+AAIYAAIQwAAQgAAGgAAEMAAEIIABIAABDAABCGAACEAAA0AAAhgAAhDAABCAAAaAAAQwAAQggAEg
+AAEMAAEIYAAIQAADQAACGAACEMAAEIAABoAABDAABCCAASAAAQwAAQhgAAhAAANAAAIYAAIQwAAQ
+gAAGgAAEMAAEIIABIAABDAABCGAACEAAA0AAAhiAImppbU9MWZv5embrztDlxIgABqg6JQvFltb2
+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
+AAQggAEgAAEMAAHEK4CXLFkydOjQU089taWlJXQtAFBEMQrgu++++/jjj3///fe/973vffGLXwxd
+DgAUUYwC+Mknn/zTP/3TQYMGzZw584033ghdDgAUUYwC+IUXXnjuueeGDx/+R3/0R2+++WbocgCg
+iGpCF/CR/fv3t7e3d3R0bNu2bcmSJc8880zu2e0vpna8lApVGwAMrJABnEgkMi/S6XQURbW1tbfd
+dlsURdOnT9+yZUvexVMmTZwyaWLukfsefKQkZQLAwAvZBZ3+rcy3v//7v9/R0RGwHgAomRg9A16w
+YMFDDz0URdGPf/zj+fPnhy4HAIooRgH8ta997Wc/+1kymVy6dOmKFStClwMARRSjQVhDhw594okn
+QlcBAKUQoxYwAFQPAQwAAcSoC7qvhiSTZiIBEEMjRhxz5ItSqVS6stz7wMOhS4gdn0keH0ghn0kh
+n0keH0ihfn8mqVRKFzQABCCAASAAAQwAAQhgAAhg8OLFi48//vjQZQykRCL69AknhK4iXnwmeXwg
+hXwmhXwmeXwghfr9mezatSuRSqUmTJgw4DUBAIfT1tamCxoAAhDAABCAAAaAAAQwAAQggAEggEoL
+4La2tilTpiSTyWnTpr322muhy4mFbdu2nXnmmclkcvLkya+88krocuJi3759p512Wugqwnv55ZdP
+P/30zB+Pbdu2hS4nLvzxyOPXSKGjj5tKC+Arr7zy61//emdnZ1NT05VXXhm6nFi49tprV61a1dnZ
+uXDhwmuuuSZ0ObGwa9euiy666M033wxdSHjf+c53brjhhs7OzgULFtx9992hy4kFfzwK+TVS6Ojj
+ppLnASeTyc7OztBVxEhXV9fQoUN9JlEUnXLKKbfeeuvChQvT6XToWgI77bTTXn311WQyuXfv3vr6
++pdffjl0ReH549EDv0a61Y+4qdh5wF1dXd/61rdmz54dupB46ejoGDduXOgqYqG1tfX6668PXUUs
+vPXWW8lkMoqi4447Tpsvwx+PHvg1kudo4qZmwKsJ7uDBg5/85Cc7Ojr+6Z/+KXQt8bJmzZply5aF
+riIWTjzxxNAlxMX+/fuzrw8ePBiwkvjwx6MHfo3kOsq4KfsWcOK3skdqamrefffdZ555ZvHixQEL
+C6jwM4mi6PXXX9+7d++8efNCVRVWt58JURTV1dVlX9fUVOC/yBlAVf5rpNBRxk3Z/3073EOaWbNm
+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
+NAAAAABJRU5ErkJggg==
+
+------=_NextPart_000_004F_01CED7CE.E8186230
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/User/gplot1.png
+
+iVBORw0KGgoAAAANSUhEUgAAAyAAAAJYCAYAAACadoJwAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAg
+AElEQVR4nO3de5SU5X0H8N+KwupuBWNQUStIaG1ErRcUjagIB+IlavCGV5QioQoeL5wa01ovbdLS
+aAVtNq0VS6UmxnjFaiUSa4qWGqNVaxVtbRuNXAQiILAICm//SJnurruzs8vsM7fP5xyOzM6zL79n
+Zp13v/M+z2/qsizLAgAAIIEdSl0AAABQOwQQAAAgGQEEoML9/u//fvzar/1a3HTTTQWNr6ury/1J
+oSf/vdRzAWD71dkDAtB17f3C26tXr9hjjz3ihBNOiBtuuCGGDh2apJbGxsbYsGFDNDY2xrp16zod
+37L2FKeAQv+9jkLEzjvvHIMGDYqTTjoprrvuuthrr726fOxi1AdAcbgCAlAkW7ZsiWXLlsUPfvCD
+OPLII+NnP/tZkn/3yiuvjIaGhrjqqquS/Hupbdy4MRYvXhwzZ86Mgw8+OBYvXlzqkgDYDq6AAHRD
+e++ar1+/Pq677rr4y7/8y4iIGDVqVDzzzDMlqS+fSrgC0nLcu+++G1dddVXMmzcvIiJOOumkeOqp
+p7p07GLUB0BxuAICUCSNjY3xx3/8x7nbL7zwwmfGNDc3xx/+4R/GkCFDok+fPrHvvvvGtdde2+7S
+qYcffjjGjh0b/fv3jx133DF23XXXOOKII2L69Onx8ssv58Z1tA9ixYoVcemll8buu+8e9fX1ceih
+h8bs2bPbrT3fXor27nvttdfixhtvjBNPPDH23HPP2GmnnWK33XaL0aNH58JBsQwcOLBV3c8991yn
+3/Ppp5/GzJkz4/DDD4+GhoZoaGiIYcOGxZ133hlbtmxpNbeW2s6z0OcAgMK5AgLQDR29a75u3brY
+ddddIyJil112iQ0bNuTu27RpU4waNSoWLVr0meMdddRR8dxzz0Xv3r0jImLGjBnxjW98o8N/f+DA
+gfHzn/+8w1rWr18fRx55ZLz11lt557FtfL6rAO3dN2jQoHj33Xc7PO4DDzwQ5557bqfH7uzf2WbF
+ihWx5557RkTErrvuGmvXru3wezZv3hynnHJKh1efvvzlL8cTTzwRO+64Y4f7TrIs69JzAEDhXAEB
+KJKPP/44ZsyYkbt99NFHt7p/1qxZufDxta99LdavXx9Tp06NiIgXX3wxmpqacmNvu+223N9//OMf
+xyeffBLr1q2LRYsWxfTp0+OMM87IW8vMmTNz4WPYsGHx/vvvx/Lly2Py5MnbN8n/c/rpp8fUqVPj
+mWeeiY8++ijWrl0bv/d7v5e7/5vf/GZR/p2IiPfeey++9rWv5W6fcMIJecffcccdufBx/PHHx9Kl
+S+P999+Po446KiIifvSjH8Wdd94ZEZ8NOlmW5b62vc8BAO1zBQSgGzpr+9q7d+949tln40tf+lLu
+a7/9278d//Zv/xYREUuWLIm99947li5dGvvss09ERAwfPjy3bKt///6xatWqiIjo06dPnHzyyXHJ
+JZfEaaedFr169eqwlm0v6Ycddli8+uqrERGxcOHCOO6443L377DDDp8Z39UrIO1pbm6OhoaGiIjY
+aaedYvPmzV36/kJa6fbv3z+ee+65OOCAAzo8dsvH+ac//WkueDz//PO5x+HQQw+NV155JW99XXkO
+ACicAALQDfl+WR4wYEA8/vjjMWzYsFZf33nnnePjjz/u8PtaLi2aPXt2TJkyJbZu3dpqzP777x9/
+9Ed/FBdddFG7tWx7SW9oaIjm5uaI+FUXqfr6+rzjuxNA3n333bj77rtj4cKF8T//8z+xatWqVvMr
+5Ngd/Tst9enTJwYOHBgnnXRSXH/99TFgwIC8tbV8nD/++OPo06dP7u8777xzbsy2x6ej+rryHABQ
+OAEEoBva/tL64YcfxnHHHRdvvvlmRETcddddrZYNRfxqT8jGjRvzHrflS/Irr7wSt99+e8ybN+8z
+m9RvvPHGuOWWW9qtJeJXV2A++eSTiPjV3pNte0s6Gt/VAPLkk0/GWWedFZs2bep0LsXYA9KV7ylW
+AIko/DkAoHD2gAAUwec+97l4+umnY7/99ouIiKlTp8aCBQtajWn5wYSLFy/O7Tdo+aelww47LP7u
+7/4uVq5cGY8++mgMHz48d9/MmTPz1rOtjojILcWKiFYdoFpqGVA++uijvMeOiJg2bVoufHz961+P
+xYsXF/QhiClsW54V0XruL730UrtjWmp7tWN7ngMA2ieAABTJPvvsE08//XR8/vOfj08//TTOOeec
+eOONN3L3X3bZZbm/n3/++fHKK6/EJ598Ev/93/8df/ZnfxbTp0/P3X/NNdfETTfdFK+//npERJx6
+6qlx66235u7f9k5+R04//fTc36dPnx7Lly+PZcuWxcUXX9zu+FGjRuX+fuedd8bmzZvj7bffjgkT
+JrQ7funSpa3m1bdv37juuuvy1pRKy6VR1113XSxfvjzef//9Vo9vy8dht912y/39X//1X3N/397n
+AIAOZAB0WUTk/rT1s5/9LGtsbMwiIhs4cGC2fPnyLMuybMuWLdn48eNbfW/LPwMHDswdY+DAgR2O
+i4jslltuyVvLypUrs/322y/vMVqOf/bZZ7O6urqCx48ZM6bTsRs2bOj0sSr0Me3K92zevDkbPXp0
+h3WNHTs227x5c278JZdc0ur+Sy65pMvPAQCFE0AAuqGzX5YXLFiQ9e7dO4uIbPjw4Vlzc3OWZVm2
+devWbM6cOdmIESOyXXfdNdtxxx2zfffdNxs/fnz2j//4j7nv/+lPf5pdeeWV2cEHH5w1NDRkvXr1
+ynbfffds5MiR2dy5cwuq5Re/+EV2/vnnZ/369cv69OmTHXHEEdl9993X4fh77703+43f+I2sV69e
+2a677podc8wx2Xe+8512x7///vvZySefnNXX12eNjY3ZyJEjs8ceeyzba6+9cmPffPPNgh6rQh/T
+rnzP5s2bsz//8z/PDj300GznnXfOdt555+zwww/PZs2alX3yySetxq5duza75JJLst12261VEOzK
+cwBA4WxCBwAAkrEHBAAASEYAAQAAkhFAAACAZAQQAAAgGQEEAABIRgABAACSEUAAAIBkBBAAACAZ
+AQQAAEhGAAEAAJIRQAAAgGQEEAAAIBkBBAAASEYAAQAAkhFAAACAZAQQAAAgGQEEAABIRgABAACS
+EUAAAIBkBBAAACAZAQQAAEhGAAEAAJLpNIDU1dXFD3/4wxg7dmxERKxZsyZOPfXUqK+vj7Fjx8ba
+tWtzY+fPnx8HHnhg9O7dOw488MD43ve+13OVAwAAFaegKyAffPBBPP300xERcf3118cZZ5wR69at
+iyuuuCJuvPHG3LiLL744vvOd78T69etj1qxZMX/+/J6pGgAAqEh1WZZleQfU1cW///u/x9ChQyMi
+YsCAAfH666/H5z//+Whubo7f+q3fivfeey8iIoYMGRIXX3xxTJw4Mfbbb7+erx4AAKgoBV0B2RY+
+IiJWrlwZ/fv3j7q6umhoaIilS5fm7nvmmWdi9erVMXLkyBg2bFgsXLiw+BUDAAAVq6ArIC2HDBgw
+IP7rv/4rdtlll7wHfuSRR2LatGmtAgoAAFDbutwF68wzz4x77rknPv744/jnf/7nuPTSS3P3XXTR
+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
+eklf1ebPn5+dcsopecesWLEiO+ywwxJV1D3tzaOxsTHbsGFD7vaHH36YHXLIIalL65J8z0chz1W5
+aK/W0047Lfv2t7+drVmzJluzZk126623ZqeffnqJKixMR4/5/PnzswMPPDDbZ599shkzZmR77LFH
+CarrXL7HfNddd83WrFmTG7t27dqsb9++pSo1r0J/dsr5l8QsK2weH3zwQXb88cdnP/jBD0pUZecK
+mcfWrVuzVatWZbNmzcqOO+64ElWaX755nH/++dn3v//93Nhy/tnqymtrOZ/P882jks7nhTwflXA+
+zzePSjqfd1ZrpZzPt+mo3u6c00v6qnbsscdmL7zwQt4xy5Yty4499thEFXVPe/M45phjsn/5l3/J
+3V69enV2/PHHpy6tS/I9H4U8V+WivVr79OmTffzxx7nbmzZtKts1o9sU8pgvWLAgO+OMMxJV1DX5
+HvOjjz661Tvszz//fHb00Ucnr7EQhf7slPMviVnW+TxeeeWVbNiwYdlzzz1XivIK1pX/l8v5//N8
+89j2bmnbP+WoK89HOZ/P882jks7nhTwflXA+zzePSjqfd6XWcj6ft6dlvd05p5fsFe3HP/5xNnbs
+2M98/cwzz8zmzZuXbdiwIVuyZEn21a9+Nfunf/qnElRYmI7m8b3vfS8bPnx49u6772Zr167Nfvd3
+f7esN7F1NI/O7is3HdU6cuTI7Lrrrst++ctfZh999FF2++23ZyNHjixBhYXpaB7nnXdetmDBgmzT
+pk3Zyy+/nB144IHZ888/X4IKO5fvMZ89e3Z2zDHHZEuWLMmWL1+ejRw5Mrv77rtLXHH7Cv3ZKddf
+ELfJN49HHnkk+9KXvpT9/Oc/L3GVncs3j7POOit7/PHHsw0bNmQffvhh9qd/+qfZqaeeWuKK29eV
+16Ry/tnKN49KOp/nm0clnc87+7mqlPN5vnlU0vk8X62VdD7Psvz1duecXrJXtRNOOKHdB/qRRx7J
+jjnmmKy+vj4bOnRo9uCDD5agusJ1NI8sy7K5c+dmX/ziF7MBAwZkt99+e+LKuibfPPLdV246qnXZ
+smXZmWeemTU0NGQNDQ3ZuHHjsmXLlpWgwsJ0NI/vf//72UEHHZT17t07O+igg7LHH3+8BNUVprPH
+/C/+4i+yQYMGZQMHDszuuOOOElaaX6E/O+X8S2KW5Z9HXV1dxbzjnm8e24JUfX191q9fv+zSSy/N
+Vq9eXeKK29eV16RyfS6yrPPno1LO5509H5VyPu9sHpVyPs83j0o6n+ertZLO51nWeb1dPafXZVmZ
+NuUGAACqTsnb8AIAALVDAAEAAJIRQAAAgGQEEAAAIBkBBAAASEYAAQAAkhFAAACAZAQQAAAgGQEE
+AABIRgABAACSEUAAAIBkBBAAACAZAQQAAEhGAAEAAJIRQAAAgGQEEAAAIBkBBICiq6urS/p9AFQO
+AQQAAEhGAAGgSz788MMYOHBgbNy4sdXXN27cGIMGDYrVq1dHRMR3v/vd2HPPPWOPPfaIefPm5cY9
++OCDMWzYsOjTp08MGTIkFixYEBH/f/Wjrq7OlRCAKiaAANAln/vc5+Kkk06KuXPntvr6vffeG6ed
+dlrstttuERHx3nvvxX/+53/Gt771rbjqqqty4x599NH4+te/HmvXro2bb745pk6dGhERWZbl/rvt
+7wBUn7rMqzwAXfTmm2/G2WefHW+88UbU1dVFlmVx0EEHxeOPPx5f+MIXcl+LiNi8eXPU19fH1q1b
+P3OcTz75JOrr62PLli0REa2+D4Dq5AoIAF124IEHxr777hv/8A//EBERTz75ZBxwwAHxhS984TNj
+e/fu3SpUvPXWW3HOOefE/vvvH3379m03mABQvQQQALrlqquuittvvz0iIm6//faYPn16Qd83bty4
+GD58eCxcuDC3XwSA2iGAANAtp5xySrz//vtx7733RnNzcxx77LEFfd+yZcvilFNOiT59+sT1118f
+Ef+//+Oggw6Kt956q8dqBqD0BBAAuqWuri6uvPLKuOyyy+Laa68t+PtmzZoVRx99dBx55JExdOjQ
+6N+/fyxZsiQiIn74wx/GV77ylRg5cmQPVQ1AqdmEDkC3vfHGG3HGGWfE22+/Hb169Sp1OQBUAFdA
+AOiWFStWxOWXXx6zZs0SPgAo2I6lLgCAynPEEUfEhg0b4tvf/nZ85StfKXU5AFQQS7AAAIBkLMEC
+AACSEUAAAIBkBBAAACAZAQQAAEhGAAEAAJL5X6+wYM6gOO+mAAAAAElFTkSuQmCC
+
+------=_NextPart_000_004F_01CED7CE.E8186230--

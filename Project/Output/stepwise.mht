@@ -1,0 +1,4135 @@
+From: "Saved by Windows Internet Explorer 10"
+Subject: SAS Output
+Date: Sat, 2 Nov 2013 13:13:50 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\User\sashtml18.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.2.9200.16384
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+<TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 10.00.9200.16721">
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.aftercaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; PADDING-TOP: 4pt; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.batch {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: 'SAS =
+Monospace', 'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px =
+solid; BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; PADDING-BOTTOM: 7px; FONT-STYLE: =
+normal; PADDING-TOP: 7px; PADDING-LEFT: 7px; BORDER-SPACING: 1px; =
+BORDER-LEFT: #c1c1c1 1px solid; PADDING-RIGHT: 7px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.beforecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.body {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; MARGIN-LEFT: =
+8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.byline {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.bylinecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.caption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.cell {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.container {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contentprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contents {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contenttitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.continued {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: left; =
+BORDER-SPACING: 0px; WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.data {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.dataemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.dataempty {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datafixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: =
+#c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: =
+#c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datastrong {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.datastrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.date {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.document {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.errorcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.errorcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.extendedpage {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 1pt solid; =
+BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; TEXT-ALIGN: center; BORDER-LEFT: #000000 1pt solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.fatalcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.footer {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasis {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.footeremphasisfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.footerempty {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #edf2f9
+}
+.footerstrong {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerstrongfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.frame {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.graph {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.header {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headersandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.index {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.indextitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.layoutcontainer {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.list {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.listitem {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.note {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notebanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.notecontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notecontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.output {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.pageno {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pages {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.pagesproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagesprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagestitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.paragraph {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.parskip {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: bold; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BORDER-LEFT: #000000 0px solid
+}
+.prepage {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.proctitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.proctitlefixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.rowfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasis {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowfooteremphasisfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterempty {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrong {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterstrongfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheader {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.systemfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle10 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle2 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle3 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle4 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle5 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle6 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle7 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle8 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle9 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systitleandfootercontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.table {
+	BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 0px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 0px solid; =
+BORDER-SPACING: 0px; BORDER-LEFT: #c1c1c1 1px solid
+}
+.top_stacked_value {
+	PADDING-BOTTOM: 1px
+}
+.middle_stacked_value {
+	PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.bottom_stacked_value {
+	PADDING-TOP: 1px
+}
+.titleandnotecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.titlesandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.usertext {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.warnbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.warncontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warncontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY class=3Dbody onload=3Dstartup() onunload=3Dshutdown()>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+var _info =3D navigator.userAgent
+var _ie =3D (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 =3D _info.indexOf("x64") > 0
+
+//-->
+</SCRIPT>
+
+<DIV class=3Dbranch><A name=3DIDX></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">Correlation matrix =
+</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The RSQUARE Procedure</DIV>
+<DIV class=3D"c proctitle">Model: MODEL1</DIV>
+<DIV class=3D"c proctitle">Dependent Variable: H </DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">R-Square Selection Method</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Rsquare: Number of Observations" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Read</TH>
+    <TD class=3D"r data">48</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Used</TH>
+    <TD class=3D"r data">48</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX1></A>
+<DIV><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Rsquare: Results" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"r b header" rowSpan=3D2 scope=3Dcol>Number =
+in<BR>Model</TH>
+    <TH class=3D"r b header" rowSpan=3D2 scope=3Dcol>R-Square</TH>
+    <TH class=3D"r b header" rowSpan=3D2 scope=3Dcol>C(p)</TH>
+    <TH class=3D"c b header" colSpan=3D8 scope=3Dcolgroup>Parameter =
+Estimates</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Intercept</TH>
+    <TH class=3D"r b header" scope=3Dcol>MSL</TH>
+    <TH class=3D"r b header" scope=3Dcol>T</TH>
+    <TH class=3D"r b header" scope=3Dcol>C</TH>
+    <TH class=3D"r b header" scope=3Dcol>SUN</TH>
+    <TH class=3D"r b header" scope=3Dcol>V</TH>
+    <TH class=3D"r b header" scope=3Dcol>RF</TH>
+    <TH class=3D"r b header" scope=3Dcol>D</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.7509</TH>
+    <TD class=3D"r data">17.8296</TD>
+    <TD class=3D"r data">208.85232</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.55271</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.4166</TH>
+    <TD class=3D"r data">100.7899</TD>
+    <TD class=3D"r data">85.54388</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-5.12388</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.3477</TH>
+    <TD class=3D"r data">117.8841</TD>
+    <TD class=3D"r data">90.34515</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.24633</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.3009</TH>
+    <TD class=3D"r data">129.5036</TD>
+    <TD class=3D"r data" noWrap>-77.01542</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.82504</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.2907</TH>
+    <TD class=3D"r data">132.0413</TD>
+    <TD class=3D"r data">80.79889</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.06514</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.2640</TH>
+    <TD class=3D"r data">138.6730</TD>
+    <TD class=3D"r data">90.86210</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.35108</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0410</TH>
+    <TD class=3D"r data">194.0084</TD>
+    <TD class=3D"r data">785.75575</TD>
+    <TD class=3D"r data" noWrap>-0.69566</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.7925</TH>
+    <TD class=3D"r data">9.5056</TD>
+    <TD class=3D"r data">200.11126</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.11965</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.43482</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.7895</TH>
+    <TD class=3D"r data">10.2529</TD>
+    <TD class=3D"r data">889.96858</TD>
+    <TD class=3D"r data" noWrap>-0.67483</TD>
+    <TD class=3D"r data" noWrap>-4.54548</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.7716</TH>
+    <TD class=3D"r data">14.6865</TD>
+    <TD class=3D"r data">196.77704</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.14322</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01978</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.7656</TH>
+    <TD class=3D"r data">16.1796</TD>
+    <TD class=3D"r data">194.86603</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.02622</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.24885</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.7603</TH>
+    <TD class=3D"r data">17.4953</TD>
+    <TD class=3D"r data">166.20729</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.22685</TD>
+    <TD class=3D"r data">0.38300</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.7560</TH>
+    <TD class=3D"r data">18.5464</TD>
+    <TD class=3D"r data">201.80446</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.25799</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.19275</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.6517</TH>
+    <TD class=3D"r data">44.4418</TD>
+    <TD class=3D"r data" noWrap>-57.17382</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.62172</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.72672</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.6472</TH>
+    <TD class=3D"r data">45.5639</TD>
+    <TD class=3D"r data">90.99397</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.03214</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.41796</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.5910</TH>
+    <TD class=3D"r data">59.5178</TD>
+    <TD class=3D"r data">83.19568</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.05150</TD>
+    <TD class=3D"r data" noWrap>-4.44131</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.4987</TH>
+    <TD class=3D"r data">82.4135</TD>
+    <TD class=3D"r data">89.65363</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-2.02644</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.17042</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.4541</TH>
+    <TD class=3D"r data">93.4847</TD>
+    <TD class=3D"r data">757.16781</TD>
+    <TD class=3D"r data" noWrap>-0.66524</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-5.10270</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.4033</TH>
+    <TD class=3D"r data">106.0963</TD>
+    <TD class=3D"r data">86.89130</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.88017</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.03534</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3834</TH>
+    <TD class=3D"r data">111.0352</TD>
+    <TD class=3D"r data">86.47813</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-2.22133</TD>
+    <TD class=3D"r data">0.04670</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3814</TH>
+    <TD class=3D"r data">111.5202</TD>
+    <TD class=3D"r data" noWrap>-23.82829</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.20124</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.04109</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3776</TH>
+    <TD class=3D"r data">112.4735</TD>
+    <TD class=3D"r data">91.90696</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.93551</TD>
+    <TD class=3D"r data" noWrap>-1.47997</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3566</TH>
+    <TD class=3D"r data">117.6898</TD>
+    <TD class=3D"r data">37.18083</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.58494</TD>
+    <TD class=3D"r data" noWrap>-0.93234</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3561</TH>
+    <TD class=3D"r data">117.7999</TD>
+    <TD class=3D"r data">413.92361</TD>
+    <TD class=3D"r data" noWrap>-0.32071</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.20867</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3504</TH>
+    <TD class=3D"r data">119.2322</TD>
+    <TD class=3D"r data" noWrap>-21.81079</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.24369</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.84457</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3140</TH>
+    <TD class=3D"r data">128.2544</TD>
+    <TD class=3D"r data">612.80469</TD>
+    <TD class=3D"r data" noWrap>-0.52687</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.06340</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3083</TH>
+    <TD class=3D"r data">129.6615</TD>
+    <TD class=3D"r data">234.56345</TD>
+    <TD class=3D"r data" noWrap>-0.30310</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.76169</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.2758</TH>
+    <TD class=3D"r data">137.7421</TD>
+    <TD class=3D"r data">474.18559</TD>
+    <TD class=3D"r data" noWrap>-0.37997</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.21665</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.8178</TH>
+    <TD class=3D"r data">5.2172</TD>
+    <TD class=3D"r data">764.58451</TD>
+    <TD class=3D"r data" noWrap>-0.55790</TD>
+    <TD class=3D"r data" noWrap>-4.18200</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.20843</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.8049</TH>
+    <TD class=3D"r data">8.4094</TD>
+    <TD class=3D"r data">834.93637</TD>
+    <TD class=3D"r data" noWrap>-0.63070</TD>
+    <TD class=3D"r data" noWrap>-4.19008</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01719</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.8036</TH>
+    <TD class=3D"r data">8.7438</TD>
+    <TD class=3D"r data">871.27284</TD>
+    <TD class=3D"r data" noWrap>-0.66989</TD>
+    <TD class=3D"r data" noWrap>-4.02927</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.22459</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7990</TH>
+    <TD class=3D"r data">9.8752</TD>
+    <TD class=3D"r data">194.12456</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.93567</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.23495</TD>
+    <TD class=3D"r data">0.01180</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7990</TH>
+    <TD class=3D"r data">9.8848</TD>
+    <TD class=3D"r data">191.31758</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.79735</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.31456</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.85061</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7954</TH>
+    <TD class=3D"r data">10.7721</TD>
+    <TD class=3D"r data">204.98183</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.31079</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.17756</TD>
+    <TD class=3D"r data" noWrap>-1.70105</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7927</TH>
+    <TD class=3D"r data">11.4586</TD>
+    <TD class=3D"r data">206.88826</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.15589</TD>
+    <TD class=3D"r data" noWrap>-0.06420</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.49572</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7925</TH>
+    <TD class=3D"r data">11.5061</TD>
+    <TD class=3D"r data">178.08747</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.44654</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.02278</TD>
+    <TD class=3D"r data" noWrap>-1.50479</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7919</TH>
+    <TD class=3D"r data">11.6539</TD>
+    <TD class=3D"r data">823.35326</TD>
+    <TD class=3D"r data" noWrap>-0.63094</TD>
+    <TD class=3D"r data" noWrap>-4.37540</TD>
+    <TD class=3D"r data">0.20045</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7901</TH>
+    <TD class=3D"r data">12.0829</TD>
+    <TD class=3D"r data">865.23044</TD>
+    <TD class=3D"r data" noWrap>-0.65294</TD>
+    <TD class=3D"r data" noWrap>-4.43531</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.07220</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7889</TH>
+    <TD class=3D"r data">12.3875</TD>
+    <TD class=3D"r data">115.52310</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.20917</TD>
+    <TD class=3D"r data">0.64949</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.87616</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7803</TH>
+    <TD class=3D"r data">14.5345</TD>
+    <TD class=3D"r data">177.07234</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.30359</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.34612</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.70762</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7735</TH>
+    <TD class=3D"r data">16.2217</TD>
+    <TD class=3D"r data">177.60902</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.03812</TD>
+    <TD class=3D"r data">0.18629</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01720</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7717</TH>
+    <TD class=3D"r data">16.6575</TD>
+    <TD class=3D"r data">196.03674</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.10883</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.03211</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01907</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.7603</TH>
+    <TD class=3D"r data">19.4894</TD>
+    <TD class=3D"r data">164.35398</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.23835</TD>
+    <TD class=3D"r data">0.40639</TD>
+    <TD class=3D"r data">0.02053</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.6852</TH>
+    <TD class=3D"r data">38.1286</TD>
+    <TD class=3D"r data" noWrap>-23.42093</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.22424</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.02692</TD>
+    <TD class=3D"r data" noWrap>-4.46735</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.6768</TH>
+    <TD class=3D"r data">40.2135</TD>
+    <TD class=3D"r data">88.42997</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.77094</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.02599</TD>
+    <TD class=3D"r data" noWrap>-4.25223</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.6691</TH>
+    <TD class=3D"r data">42.1249</TD>
+    <TD class=3D"r data">6.91035</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.92531</TD>
+    <TD class=3D"r data" noWrap>-0.52978</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.53494</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.6600</TH>
+    <TD class=3D"r data">44.3748</TD>
+    <TD class=3D"r data">272.92135</TD>
+    <TD class=3D"r data" noWrap>-0.32108</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.55434</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.73300</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.6579</TH>
+    <TD class=3D"r data">44.9023</TD>
+    <TD class=3D"r data">456.74151</TD>
+    <TD class=3D"r data" noWrap>-0.36250</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.98870</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.43614</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.6523</TH>
+    <TD class=3D"r data">46.2921</TD>
+    <TD class=3D"r data" noWrap>-63.49589</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.68840</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.22372</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.81565</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.6478</TH>
+    <TD class=3D"r data">47.4070</TD>
+    <TD class=3D"r data">90.76198</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.07681</TD>
+    <TD class=3D"r data">0.23069</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.49596</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.6152</TH>
+    <TD class=3D"r data">55.5113</TD>
+    <TD class=3D"r data">625.21621</TD>
+    <TD class=3D"r data" noWrap>-0.53679</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.04972</TD>
+    <TD class=3D"r data" noWrap>-4.44791</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.6070</TH>
+    <TD class=3D"r data">57.5430</TD>
+    <TD class=3D"r data">85.50520</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.98115</TD>
+    <TD class=3D"r data">0.04449</TD>
+    <TD class=3D"r data" noWrap>-4.07259</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.5183</TH>
+    <TD class=3D"r data">79.5412</TD>
+    <TD class=3D"r data">584.88527</TD>
+    <TD class=3D"r data" noWrap>-0.49092</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.82808</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.24812</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4255</TH>
+    <TD class=3D"r data">102.5911</TD>
+    <TD class=3D"r data">88.47468</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.63516</TD>
+    <TD class=3D"r data" noWrap>-1.28265</TD>
+    <TD class=3D"r data">0.03299</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4132</TH>
+    <TD class=3D"r data">105.6315</TD>
+    <TD class=3D"r data">15.49051</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.79382</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.49920</TD>
+    <TD class=3D"r data">0.03680</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4128</TH>
+    <TD class=3D"r data">105.7392</TD>
+    <TD class=3D"r data">431.06794</TD>
+    <TD class=3D"r data" noWrap>-0.34116</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.83640</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.03570</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4077</TH>
+    <TD class=3D"r data">106.9930</TD>
+    <TD class=3D"r data">49.04398</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.41769</TD>
+    <TD class=3D"r data" noWrap>-0.66828</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.03415</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.3943</TH>
+    <TD class=3D"r data">110.3149</TD>
+    <TD class=3D"r data">455.81226</TD>
+    <TD class=3D"r data" noWrap>-0.36609</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-2.09575</TD>
+    <TD class=3D"r data">0.04654</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.3905</TH>
+    <TD class=3D"r data">111.2791</TD>
+    <TD class=3D"r data">320.57089</TD>
+    <TD class=3D"r data" noWrap>-0.33448</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.12482</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.04152</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.3836</TH>
+    <TD class=3D"r data">112.9854</TD>
+    <TD class=3D"r data">366.22757</TD>
+    <TD class=3D"r data" noWrap>-0.27194</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.91529</TD>
+    <TD class=3D"r data" noWrap>-1.42421</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.3818</TH>
+    <TD class=3D"r data">113.4184</TD>
+    <TD class=3D"r data">54.37615</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.41179</TD>
+    <TD class=3D"r data" noWrap>-0.73500</TD>
+    <TD class=3D"r data" noWrap>-1.38219</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.3633</TH>
+    <TD class=3D"r data">118.0081</TD>
+    <TD class=3D"r data">334.28453</TD>
+    <TD class=3D"r data" noWrap>-0.28965</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.53145</TD>
+    <TD class=3D"r data" noWrap>-0.92704</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.3554</TH>
+    <TD class=3D"r data">119.9821</TD>
+    <TD class=3D"r data">234.26306</TD>
+    <TD class=3D"r data" noWrap>-0.25029</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.20421</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.80384</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8251</TH>
+    <TD class=3D"r data">5.3964</TD>
+    <TD class=3D"r data">764.42657</TD>
+    <TD class=3D"r data" noWrap>-0.56696</TD>
+    <TD class=3D"r data" noWrap>-3.84125</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.07724</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.90197</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8244</TH>
+    <TD class=3D"r data">5.5845</TD>
+    <TD class=3D"r data">803.27975</TD>
+    <TD class=3D"r data" noWrap>-0.61725</TD>
+    <TD class=3D"r data" noWrap>-3.51647</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.02015</TD>
+    <TD class=3D"r data" noWrap>-1.45280</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8242</TH>
+    <TD class=3D"r data">5.6397</TD>
+    <TD class=3D"r data">815.70006</TD>
+    <TD class=3D"r data" noWrap>-0.60127</TD>
+    <TD class=3D"r data" noWrap>-4.47051</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.26351</TD>
+    <TD class=3D"r data" noWrap>-1.58593</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8234</TH>
+    <TD class=3D"r data">5.8315</TD>
+    <TD class=3D"r data">748.41694</TD>
+    <TD class=3D"r data" noWrap>-0.54738</TD>
+    <TD class=3D"r data" noWrap>-4.01107</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.02829</TD>
+    <TD class=3D"r data">0.01089</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8196</TH>
+    <TD class=3D"r data">6.7696</TD>
+    <TD class=3D"r data">812.78637</TD>
+    <TD class=3D"r data" noWrap>-0.58454</TD>
+    <TD class=3D"r data" noWrap>-4.29860</TD>
+    <TD class=3D"r data" noWrap>-0.20130</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.38861</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8142</TH>
+    <TD class=3D"r data">8.1116</TD>
+    <TD class=3D"r data">713.12152</TD>
+    <TD class=3D"r data" noWrap>-0.56838</TD>
+    <TD class=3D"r data" noWrap>-3.45578</TD>
+    <TD class=3D"r data">0.45551</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.66822</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8096</TH>
+    <TD class=3D"r data">9.2476</TD>
+    <TD class=3D"r data">180.75153</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.45647</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.01562</TD>
+    <TD class=3D"r data">0.01544</TD>
+    <TD class=3D"r data" noWrap>-1.11466</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8090</TH>
+    <TD class=3D"r data">9.3982</TD>
+    <TD class=3D"r data">792.28834</TD>
+    <TD class=3D"r data" noWrap>-0.60275</TD>
+    <TD class=3D"r data" noWrap>-3.57471</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.21757</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.51541</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8061</TH>
+    <TD class=3D"r data">10.1237</TD>
+    <TD class=3D"r data">200.00193</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.18376</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.28895</TD>
+    <TD class=3D"r data" noWrap>-1.59980</TD>
+    <TD class=3D"r data">0.01584</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8058</TH>
+    <TD class=3D"r data">10.2006</TD>
+    <TD class=3D"r data">859.20814</TD>
+    <TD class=3D"r data" noWrap>-0.65268</TD>
+    <TD class=3D"r data" noWrap>-4.28621</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.08825</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01905</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8049</TH>
+    <TD class=3D"r data">10.4091</TD>
+    <TD class=3D"r data">833.50184</TD>
+    <TD class=3D"r data" noWrap>-0.62979</TD>
+    <TD class=3D"r data" noWrap>-4.18723</TD>
+    <TD class=3D"r data">0.00494</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01712</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8022</TH>
+    <TD class=3D"r data">11.0858</TD>
+    <TD class=3D"r data">126.87333</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.01761</TD>
+    <TD class=3D"r data">0.45247</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01727</TD>
+    <TD class=3D"r data" noWrap>-1.87988</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8007</TH>
+    <TD class=3D"r data">11.4736</TD>
+    <TD class=3D"r data">163.53846</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.54998</TD>
+    <TD class=3D"r data">0.23324</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.05009</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.15600</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.8005</TH>
+    <TD class=3D"r data">11.5217</TD>
+    <TD class=3D"r data">212.66931</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.01438</TD>
+    <TD class=3D"r data" noWrap>-0.18330</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.38197</TD>
+    <TD class=3D"r data">0.01339</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.7991</TH>
+    <TD class=3D"r data">11.8625</TD>
+    <TD class=3D"r data">193.08542</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.86484</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.03789</TD>
+    <TD class=3D"r data" noWrap>-1.38134</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.78015</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.7964</TH>
+    <TD class=3D"r data">12.5322</TD>
+    <TD class=3D"r data">186.77281</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.29982</TD>
+    <TD class=3D"r data">0.19663</TD>
+    <TD class=3D"r data">0.27047</TD>
+    <TD class=3D"r data" noWrap>-1.65379</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.7960</TH>
+    <TD class=3D"r data">12.6356</TD>
+    <TD class=3D"r data">171.27672</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.15345</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.18540</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01909</TD>
+    <TD class=3D"r data" noWrap>-1.70904</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.7922</TH>
+    <TD class=3D"r data">13.5817</TD>
+    <TD class=3D"r data">821.15521</TD>
+    <TD class=3D"r data" noWrap>-0.63510</TD>
+    <TD class=3D"r data" noWrap>-4.41685</TD>
+    <TD class=3D"r data">0.28159</TD>
+    <TD class=3D"r data">0.07229</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.7891</TH>
+    <TD class=3D"r data">14.3515</TD>
+    <TD class=3D"r data">119.78300</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.17325</TD>
+    <TD class=3D"r data">0.59308</TD>
+    <TD class=3D"r data" noWrap>-0.05119</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.88953</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.7744</TH>
+    <TD class=3D"r data">17.9975</TD>
+    <TD class=3D"r data">166.52252</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.10014</TD>
+    <TD class=3D"r data">0.32317</TD>
+    <TD class=3D"r data">0.13004</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01818</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6946</TH>
+    <TD class=3D"r data">37.8026</TD>
+    <TD class=3D"r data">327.43654</TD>
+    <TD class=3D"r data" noWrap>-0.34076</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.14641</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.02734</TD>
+    <TD class=3D"r data" noWrap>-4.46988</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6928</TH>
+    <TD class=3D"r data">38.2379</TD>
+    <TD class=3D"r data">16.16514</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.79799</TD>
+    <TD class=3D"r data" noWrap>-0.36311</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.02346</TD>
+    <TD class=3D"r data" noWrap>-4.36923</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6883</TH>
+    <TD class=3D"r data">39.3512</TD>
+    <TD class=3D"r data">467.77841</TD>
+    <TD class=3D"r data" noWrap>-0.37601</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.72227</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.02634</TD>
+    <TD class=3D"r data" noWrap>-4.26879</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6871</TH>
+    <TD class=3D"r data">39.6594</TD>
+    <TD class=3D"r data" noWrap>-33.84900</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.33322</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.39814</TD>
+    <TD class=3D"r data">0.02757</TD>
+    <TD class=3D"r data" noWrap>-4.61929</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6782</TH>
+    <TD class=3D"r data">41.8778</TD>
+    <TD class=3D"r data">88.05296</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.83267</TD>
+    <TD class=3D"r data">0.33823</TD>
+    <TD class=3D"r data">0.02636</TD>
+    <TD class=3D"r data" noWrap>-4.36419</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6770</TH>
+    <TD class=3D"r data">42.1642</TD>
+    <TD class=3D"r data">327.67623</TD>
+    <TD class=3D"r data" noWrap>-0.31277</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.86819</TD>
+    <TD class=3D"r data" noWrap>-0.52330</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.54340</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6727</TH>
+    <TD class=3D"r data">43.2404</TD>
+    <TD class=3D"r data" noWrap>-1.42047</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.01077</TD>
+    <TD class=3D"r data" noWrap>-0.59219</TD>
+    <TD class=3D"r data">0.56192</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.73572</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6611</TH>
+    <TD class=3D"r data">46.1217</TD>
+    <TD class=3D"r data">273.91156</TD>
+    <TD class=3D"r data" noWrap>-0.33007</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.63945</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.29184</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.84919</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6592</TH>
+    <TD class=3D"r data">46.5899</TD>
+    <TD class=3D"r data">468.76887</TD>
+    <TD class=3D"r data" noWrap>-0.37474</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.05056</TD>
+    <TD class=3D"r data">0.32709</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.54734</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.6254</TH>
+    <TD class=3D"r data">54.9803</TD>
+    <TD class=3D"r data">564.81884</TD>
+    <TD class=3D"r data" noWrap>-0.47512</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.79511</TD>
+    <TD class=3D"r data">0.04424</TD>
+    <TD class=3D"r data" noWrap>-4.14835</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4327</TH>
+    <TD class=3D"r data">102.8048</TD>
+    <TD class=3D"r data">389.15131</TD>
+    <TD class=3D"r data" noWrap>-0.29812</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.60907</TD>
+    <TD class=3D"r data" noWrap>-1.21894</TD>
+    <TD class=3D"r data">0.03342</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4273</TH>
+    <TD class=3D"r data">104.1301</TD>
+    <TD class=3D"r data">63.60669</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.27362</TD>
+    <TD class=3D"r data" noWrap>-0.50800</TD>
+    <TD class=3D"r data" noWrap>-1.22167</TD>
+    <TD class=3D"r data">0.03232</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4199</TH>
+    <TD class=3D"r data">105.9686</TD>
+    <TD class=3D"r data">311.63526</TD>
+    <TD class=3D"r data" noWrap>-0.28894</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.74191</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.44730</TD>
+    <TD class=3D"r data">0.03732</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4160</TH>
+    <TD class=3D"r data">106.9463</TD>
+    <TD class=3D"r data">377.20193</TD>
+    <TD class=3D"r data" noWrap>-0.31975</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.35614</TD>
+    <TD class=3D"r data" noWrap>-0.65847</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.03466</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.3870</TH>
+    <TD class=3D"r data">114.1392</TD>
+    <TD class=3D"r data">313.55123</TD>
+    <TD class=3D"r data" noWrap>-0.25318</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.37031</TD>
+    <TD class=3D"r data" noWrap>-0.73637</TD>
+    <TD class=3D"r data" noWrap>-1.34012</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8351</TH>
+    <TD class=3D"r data">4.9169</TD>
+    <TD class=3D"r data">813.84854</TD>
+    <TD class=3D"r data" noWrap>-0.60442</TD>
+    <TD class=3D"r data" noWrap>-4.34254</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.37691</TD>
+    <TD class=3D"r data" noWrap>-1.48267</TD>
+    <TD class=3D"r data">0.01606</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8347</TH>
+    <TD class=3D"r data">5.0301</TD>
+    <TD class=3D"r data">742.64403</TD>
+    <TD class=3D"r data" noWrap>-0.55532</TD>
+    <TD class=3D"r data" noWrap>-3.51727</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.79878</TD>
+    <TD class=3D"r data">0.01464</TD>
+    <TD class=3D"r data" noWrap>-1.15118</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8277</TH>
+    <TD class=3D"r data">6.7652</TD>
+    <TD class=3D"r data">821.74284</TD>
+    <TD class=3D"r data" noWrap>-0.58750</TD>
+    <TD class=3D"r data" noWrap>-4.15536</TD>
+    <TD class=3D"r data" noWrap>-0.32316</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.27234</TD>
+    <TD class=3D"r data">0.01362</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8274</TH>
+    <TD class=3D"r data">6.8390</TD>
+    <TD class=3D"r data">723.03705</TD>
+    <TD class=3D"r data" noWrap>-0.56706</TD>
+    <TD class=3D"r data" noWrap>-3.26450</TD>
+    <TD class=3D"r data">0.25980</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01720</TD>
+    <TD class=3D"r data" noWrap>-1.67240</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8265</TH>
+    <TD class=3D"r data">7.0580</TD>
+    <TD class=3D"r data">793.52294</TD>
+    <TD class=3D"r data" noWrap>-0.58883</TD>
+    <TD class=3D"r data" noWrap>-4.10964</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.14975</TD>
+    <TD class=3D"r data" noWrap>-1.33198</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.62552</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8252</TH>
+    <TD class=3D"r data">7.3746</TD>
+    <TD class=3D"r data">751.31195</TD>
+    <TD class=3D"r data" noWrap>-0.56043</TD>
+    <TD class=3D"r data" noWrap>-3.78271</TD>
+    <TD class=3D"r data">0.05472</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.01793</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.97302</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8247</TH>
+    <TD class=3D"r data">7.5066</TD>
+    <TD class=3D"r data">786.18597</TD>
+    <TD class=3D"r data" noWrap>-0.60244</TD>
+    <TD class=3D"r data" noWrap>-3.42457</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.05707</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01907</TD>
+    <TD class=3D"r data" noWrap>-1.51692</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8244</TH>
+    <TD class=3D"r data">7.5891</TD>
+    <TD class=3D"r data">802.14945</TD>
+    <TD class=3D"r data" noWrap>-0.59620</TD>
+    <TD class=3D"r data" noWrap>-4.46410</TD>
+    <TD class=3D"r data">0.09073</TD>
+    <TD class=3D"r data">0.30566</TD>
+    <TD class=3D"r data" noWrap>-1.56510</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8142</TH>
+    <TD class=3D"r data">10.1114</TD>
+    <TD class=3D"r data">713.08026</TD>
+    <TD class=3D"r data" noWrap>-0.56862</TD>
+    <TD class=3D"r data" noWrap>-3.45840</TD>
+    <TD class=3D"r data">0.45938</TD>
+    <TD class=3D"r data">0.00359</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.66719</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8107</TH>
+    <TD class=3D"r data">10.9721</TD>
+    <TD class=3D"r data">186.34586</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.67467</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.13667</TD>
+    <TD class=3D"r data" noWrap>-1.23435</TD>
+    <TD class=3D"r data">0.01659</TD>
+    <TD class=3D"r data" noWrap>-0.88008</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8101</TH>
+    <TD class=3D"r data">11.1188</TD>
+    <TD class=3D"r data">165.37447</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.32937</TD>
+    <TD class=3D"r data">0.13264</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.87712</TD>
+    <TD class=3D"r data">0.01483</TD>
+    <TD class=3D"r data" noWrap>-1.27782</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8068</TH>
+    <TD class=3D"r data">11.9613</TD>
+    <TD class=3D"r data">828.72497</TD>
+    <TD class=3D"r data" noWrap>-0.64028</TD>
+    <TD class=3D"r data" noWrap>-4.27757</TD>
+    <TD class=3D"r data">0.19584</TD>
+    <TD class=3D"r data">0.18423</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01851</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8066</TH>
+    <TD class=3D"r data">12.0094</TD>
+    <TD class=3D"r data">187.47556</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.17865</TD>
+    <TD class=3D"r data">0.13633</TD>
+    <TD class=3D"r data">0.35118</TD>
+    <TD class=3D"r data" noWrap>-1.56903</TD>
+    <TD class=3D"r data">0.01553</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8024</TH>
+    <TD class=3D"r data">13.0442</TD>
+    <TD class=3D"r data">122.46619</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.05240</TD>
+    <TD class=3D"r data">0.50968</TD>
+    <TD class=3D"r data">0.05632</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01770</TD>
+    <TD class=3D"r data" noWrap>-1.86526</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.8019</TH>
+    <TD class=3D"r data">13.1652</TD>
+    <TD class=3D"r data">156.87354</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.71465</TD>
+    <TD class=3D"r data">0.35346</TD>
+    <TD class=3D"r data">0.16405</TD>
+    <TD class=3D"r data" noWrap>-1.20286</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-1.00839</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.7017</TH>
+    <TD class=3D"r data">38.0218</TD>
+    <TD class=3D"r data">357.60905</TD>
+    <TD class=3D"r data" noWrap>-0.33273</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.73441</TD>
+    <TD class=3D"r data" noWrap>-0.35253</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.02398</TD>
+    <TD class=3D"r data" noWrap>-4.37456</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.6972</TH>
+    <TD class=3D"r data">39.1388</TD>
+    <TD class=3D"r data">330.64946</TD>
+    <TD class=3D"r data" noWrap>-0.35597</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">1.27302</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.47525</TD>
+    <TD class=3D"r data">0.02815</TD>
+    <TD class=3D"r data" noWrap>-4.65136</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.6971</TH>
+    <TD class=3D"r data">39.1639</TD>
+    <TD class=3D"r data">7.13298</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.89011</TD>
+    <TD class=3D"r data" noWrap>-0.42913</TD>
+    <TD class=3D"r data">0.61968</TD>
+    <TD class=3D"r data">0.02385</TD>
+    <TD class=3D"r data" noWrap>-4.58787</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.6906</TH>
+    <TD class=3D"r data">40.7854</TD>
+    <TD class=3D"r data">484.21504</TD>
+    <TD class=3D"r data" noWrap>-0.39279</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.80063</TD>
+    <TD class=3D"r data">0.44126</TD>
+    <TD class=3D"r data">0.02685</TD>
+    <TD class=3D"r data" noWrap>-4.41560</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.6815</TH>
+    <TD class=3D"r data">43.0567</TD>
+    <TD class=3D"r data">337.10542</TD>
+    <TD class=3D"r data" noWrap>-0.33108</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.96077</TD>
+    <TD class=3D"r data" noWrap>-0.59297</TD>
+    <TD class=3D"r data">0.63070</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-4.76925</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4339</TH>
+    <TD class=3D"r data">104.4974</TD>
+    <TD class=3D"r data">356.83987</TD>
+    <TD class=3D"r data" noWrap>-0.28630</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.22443</TD>
+    <TD class=3D"r data" noWrap>-0.50581</TD>
+    <TD class=3D"r data" noWrap>-1.17145</TD>
+    <TD class=3D"r data">0.03285</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.8383</TH>
+    <TD class=3D"r data">6.1381</TD>
+    <TD class=3D"r data">788.05185</TD>
+    <TD class=3D"r data" noWrap>-0.59011</TD>
+    <TD class=3D"r data" noWrap>-3.91903</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.24927</TD>
+    <TD class=3D"r data" noWrap>-1.18413</TD>
+    <TD class=3D"r data">0.01667</TD>
+    <TD class=3D"r data" noWrap>-0.72562</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.8352</TH>
+    <TD class=3D"r data">6.9123</TD>
+    <TD class=3D"r data">809.76177</TD>
+    <TD class=3D"r data" noWrap>-0.60288</TD>
+    <TD class=3D"r data" noWrap>-4.34111</TD>
+    <TD class=3D"r data">0.02741</TD>
+    <TD class=3D"r data">0.38919</TD>
+    <TD class=3D"r data" noWrap>-1.47678</TD>
+    <TD class=3D"r data">0.01599</TD>
+    <TD class=3D"r data">.</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.8347</TH>
+    <TD class=3D"r data">7.0152</TD>
+    <TD class=3D"r data">753.37508</TD>
+    <TD class=3D"r data" noWrap>-0.56064</TD>
+    <TD class=3D"r data" noWrap>-3.56197</TD>
+    <TD class=3D"r data" noWrap>-0.04605</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.84478</TD>
+    <TD class=3D"r data">0.01484</TD>
+    <TD class=3D"r data" noWrap>-1.09489</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.8281</TH>
+    <TD class=3D"r data">8.6700</TD>
+    <TD class=3D"r data">722.22244</TD>
+    <TD class=3D"r data" noWrap>-0.57476</TD>
+    <TD class=3D"r data" noWrap>-3.33819</TD>
+    <TD class=3D"r data">0.37285</TD>
+    <TD class=3D"r data">0.11386</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.01805</TD>
+    <TD class=3D"r data" noWrap>-1.64003</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.8275</TH>
+    <TD class=3D"r data">8.8066</TD>
+    <TD class=3D"r data">756.51709</TD>
+    <TD class=3D"r data" noWrap>-0.57404</TD>
+    <TD class=3D"r data" noWrap>-4.01254</TD>
+    <TD class=3D"r data">0.21405</TD>
+    <TD class=3D"r data">0.22333</TD>
+    <TD class=3D"r data" noWrap>-1.22514</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-0.76762</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.8128</TH>
+    <TD class=3D"r data">12.4699</TD>
+    <TD class=3D"r data">155.73916</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data" noWrap>-3.55284</TD>
+    <TD class=3D"r data">0.30082</TD>
+    <TD class=3D"r data">0.24092</TD>
+    <TD class=3D"r data" noWrap>-1.08709</TD>
+    <TD class=3D"r data">0.01606</TD>
+    <TD class=3D"r data" noWrap>-1.07118</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.7072</TH>
+    <TD class=3D"r data">38.6811</TD>
+    <TD class=3D"r data">368.58230</TD>
+    <TD class=3D"r data" noWrap>-0.35329</TD>
+    <TD class=3D"r data">.</TD>
+    <TD class=3D"r data">0.83372</TD>
+    <TD class=3D"r data" noWrap>-0.42588</TD>
+    <TD class=3D"r data">0.69453</TD>
+    <TD class=3D"r data">0.02445</TD>
+    <TD class=3D"r data" noWrap>-4.61994</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.8388</TH>
+    <TD class=3D"r data">8.0000</TD>
+    <TD class=3D"r data">760.63604</TD>
+    <TD class=3D"r data" noWrap>-0.57910</TD>
+    <TD class=3D"r data" noWrap>-3.85004</TD>
+    <TD class=3D"r data">0.15910</TD>
+    <TD class=3D"r data">0.30231</TD>
+    <TD class=3D"r data" noWrap>-1.10718</TD>
+    <TD class=3D"r data">0.01639</TD>
+    <TD class=3D"r data" =
+noWrap>-0.82957</TD></TR></TBODY></TABLE></DIV><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P></P></DIV><BR><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P></P></DIV>
+<DIV class=3Dbranch>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX2></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">Correlation matrix =
+</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The STEPWISE Procedure</DIV>
+<DIV class=3D"c proctitle">Model: MODEL1</DIV>
+<DIV class=3D"c proctitle">Dependent Variable: H </DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Number of Observations" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Read</TH>
+    <TD class=3D"r data">48</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Used</TH>
+    <TD class=3D"r =
+data">48</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Forward Selection: Step 1</DIV>
+<P>
+<P><A name=3DIDX3></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable T Entered: R-Square =3D 0.7509 and =
+C(p) =3D=20
+17.8296</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">552.05731</TD>
+    <TD class=3D"r data">552.05731</TD>
+    <TD class=3D"r data">138.65</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">46</TD>
+    <TD class=3D"r data">183.16253</TD>
+    <TD class=3D"r data">3.98179</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX4></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">208.85232</TD>
+    <TD class=3D"r data">10.65746</TD>
+    <TD class=3D"r data">1529.14932</TD>
+    <TD class=3D"r data">384.04</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-4.55271</TD>
+    <TD class=3D"r data">0.38665</TD>
+    <TD class=3D"r data">552.05731</TD>
+    <TD class=3D"r data">138.65</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 1, 1</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Forward Selection: Step 2</DIV>
+<P>
+<P><A name=3DIDX5></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable V Entered: R-Square =3D 0.7925 and =
+C(p) =3D=20
+9.5056</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">582.64092</TD>
+    <TD class=3D"r data">291.32046</TD>
+    <TD class=3D"r data">85.92</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">45</TD>
+    <TD class=3D"r data">152.57893</TD>
+    <TD class=3D"r data">3.39064</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX6></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">200.11126</TD>
+    <TD class=3D"r data">10.25619</TD>
+    <TD class=3D"r data">1290.78121</TD>
+    <TD class=3D"r data">380.69</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-4.11965</TD>
+    <TD class=3D"r data">0.38483</TD>
+    <TD class=3D"r data">388.56685</TD>
+    <TD class=3D"r data">114.60</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.43482</TD>
+    <TD class=3D"r data">0.47774</TD>
+    <TD class=3D"r data">30.58361</TD>
+    <TD class=3D"r data">9.02</TD>
+    <TD class=3D"r =
+data">0.0043</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 1.1633, =
+4.6533</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Forward Selection: Step 3</DIV>
+<P>
+<P><A name=3DIDX7></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable MSL Entered: R-Square =3D 0.8178 and =
+C(p) =3D=20
+5.2172</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">601.26964</TD>
+    <TD class=3D"r data">200.42321</TD>
+    <TD class=3D"r data">65.84</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">44</TD>
+    <TD class=3D"r data">133.95021</TD>
+    <TD class=3D"r data">3.04432</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX8></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">764.58451</TD>
+    <TD class=3D"r data">228.39719</TD>
+    <TD class=3D"r data">34.11616</TD>
+    <TD class=3D"r data">11.21</TD>
+    <TD class=3D"r data">0.0017</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data" noWrap>-0.55790</TD>
+    <TD class=3D"r data">0.22553</TD>
+    <TD class=3D"r data">18.62872</TD>
+    <TD class=3D"r data">6.12</TD>
+    <TD class=3D"r data">0.0173</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-4.18200</TD>
+    <TD class=3D"r data">0.36552</TD>
+    <TD class=3D"r data">398.51307</TD>
+    <TD class=3D"r data">130.90</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.20843</TD>
+    <TD class=3D"r data">0.46184</TD>
+    <TD class=3D"r data">20.84230</TD>
+    <TD class=3D"r data">6.85</TD>
+    <TD class=3D"r =
+data">0.0121</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 1.2109, =
+10.262</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">No other variable met the 0.1000 significance =
+level for=20
+entry into the model.</DIV>
+<P><A name=3DIDX9></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Selection Summary" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D8 scope=3Dcolgroup>Summary of =
+Forward=20
+      Selection</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Step</TH>
+    <TH class=3D"l b header" scope=3Dcol>Variable<BR>Entered</TH>
+    <TH class=3D"r b header" scope=3Dcol>Number<BR>Vars In</TH>
+    <TH class=3D"r b header" scope=3Dcol>Partial<BR>R-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>Model<BR>R-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>C(p)</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TD class=3D"l data">T</TD>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.7509</TD>
+    <TD class=3D"r data">0.7509</TD>
+    <TD class=3D"r data">17.8296</TD>
+    <TD class=3D"r data">138.65</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TD class=3D"l data">V</TD>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">0.0416</TD>
+    <TD class=3D"r data">0.7925</TD>
+    <TD class=3D"r data">9.5056</TD>
+    <TD class=3D"r data">9.02</TD>
+    <TD class=3D"r data">0.0043</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TD class=3D"l data">MSL</TD>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">0.0253</TD>
+    <TD class=3D"r data">0.8178</TD>
+    <TD class=3D"r data">5.2172</TD>
+    <TD class=3D"r data">6.12</TD>
+    <TD class=3D"r =
+data">0.0173</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX10></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">Correlation matrix =
+</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The STEPWISE Procedure</DIV>
+<DIV class=3D"c proctitle">Model: MODEL1</DIV>
+<DIV class=3D"c proctitle">Dependent Variable: H </DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Number of Observations" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Read</TH>
+    <TD class=3D"r data">48</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Used</TH>
+    <TD class=3D"r =
+data">48</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Backward Elimination: Step 0</DIV>
+<P>
+<P><A name=3DIDX11></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">All Variables Entered: R-Square =3D 0.8388 =
+and C(p) =3D=20
+8.0000</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">616.72488</TD>
+    <TD class=3D"r data">88.10355</TD>
+    <TD class=3D"r data">29.74</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">40</TD>
+    <TD class=3D"r data">118.49496</TD>
+    <TD class=3D"r data">2.96237</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX12></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">760.63604</TD>
+    <TD class=3D"r data">242.31189</TD>
+    <TD class=3D"r data">29.19068</TD>
+    <TD class=3D"r data">9.85</TD>
+    <TD class=3D"r data">0.0032</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data" noWrap>-0.57910</TD>
+    <TD class=3D"r data">0.22767</TD>
+    <TD class=3D"r data">19.16621</TD>
+    <TD class=3D"r data">6.47</TD>
+    <TD class=3D"r data">0.0149</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-3.85004</TD>
+    <TD class=3D"r data">0.67347</TD>
+    <TD class=3D"r data">96.81369</TD>
+    <TD class=3D"r data">32.68</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>C</TH>
+    <TD class=3D"r data">0.15910</TD>
+    <TD class=3D"r data">0.42811</TD>
+    <TD class=3D"r data">0.40916</TD>
+    <TD class=3D"r data">0.14</TD>
+    <TD class=3D"r data">0.7121</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SUN</TH>
+    <TD class=3D"r data">0.30231</TD>
+    <TD class=3D"r data">0.30004</TD>
+    <TD class=3D"r data">3.00727</TD>
+    <TD class=3D"r data">1.02</TD>
+    <TD class=3D"r data">0.3197</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.10718</TD>
+    <TD class=3D"r data">0.67759</TD>
+    <TD class=3D"r data">7.90949</TD>
+    <TD class=3D"r data">2.67</TD>
+    <TD class=3D"r data">0.1101</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>RF</TH>
+    <TD class=3D"r data">0.01639</TD>
+    <TD class=3D"r data">0.00979</TD>
+    <TD class=3D"r data">8.31406</TD>
+    <TD class=3D"r data">2.81</TD>
+    <TD class=3D"r data">0.1017</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>D</TH>
+    <TD class=3D"r data" noWrap>-0.82957</TD>
+    <TD class=3D"r data">0.86853</TD>
+    <TD class=3D"r data">2.70259</TD>
+    <TD class=3D"r data">0.91</TD>
+    <TD class=3D"r =
+data">0.3452</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 5.0017, =
+150.9</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Backward Elimination: Step 1</DIV>
+<P>
+<P><A name=3DIDX13></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable C Removed: R-Square =3D 0.8383 and =
+C(p) =3D=20
+6.1381</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">616.31572</TD>
+    <TD class=3D"r data">102.71929</TD>
+    <TD class=3D"r data">35.42</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">41</TD>
+    <TD class=3D"r data">118.90412</TD>
+    <TD class=3D"r data">2.90010</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX14></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">788.05185</TD>
+    <TD class=3D"r data">228.37086</TD>
+    <TD class=3D"r data">34.53355</TD>
+    <TD class=3D"r data">11.91</TD>
+    <TD class=3D"r data">0.0013</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data" noWrap>-0.59011</TD>
+    <TD class=3D"r data">0.22335</TD>
+    <TD class=3D"r data">20.24494</TD>
+    <TD class=3D"r data">6.98</TD>
+    <TD class=3D"r data">0.0116</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-3.91903</TD>
+    <TD class=3D"r data">0.64054</TD>
+    <TD class=3D"r data">108.56306</TD>
+    <TD class=3D"r data">37.43</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SUN</TH>
+    <TD class=3D"r data">0.24927</TD>
+    <TD class=3D"r data">0.26114</TD>
+    <TD class=3D"r data">2.64241</TD>
+    <TD class=3D"r data">0.91</TD>
+    <TD class=3D"r data">0.3454</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.18413</TD>
+    <TD class=3D"r data">0.63836</TD>
+    <TD class=3D"r data">9.97872</TD>
+    <TD class=3D"r data">3.44</TD>
+    <TD class=3D"r data">0.0708</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>RF</TH>
+    <TD class=3D"r data">0.01667</TD>
+    <TD class=3D"r data">0.00965</TD>
+    <TD class=3D"r data">8.64979</TD>
+    <TD class=3D"r data">2.98</TD>
+    <TD class=3D"r data">0.0917</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>D</TH>
+    <TD class=3D"r data" noWrap>-0.72562</TD>
+    <TD class=3D"r data">0.81356</TD>
+    <TD class=3D"r data">2.30699</TD>
+    <TD class=3D"r data">0.80</TD>
+    <TD class=3D"r =
+data">0.3777</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 3.8702, =
+92.518</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Backward Elimination: Step 2</DIV>
+<P>
+<P><A name=3DIDX15></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable D Removed: R-Square =3D 0.8351 and =
+C(p) =3D=20
+4.9169</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">614.00874</TD>
+    <TD class=3D"r data">122.80175</TD>
+    <TD class=3D"r data">42.55</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">42</TD>
+    <TD class=3D"r data">121.21111</TD>
+    <TD class=3D"r data">2.88598</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX16></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">813.84854</TD>
+    <TD class=3D"r data">225.97967</TD>
+    <TD class=3D"r data">37.43187</TD>
+    <TD class=3D"r data">12.97</TD>
+    <TD class=3D"r data">0.0008</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data" noWrap>-0.60442</TD>
+    <TD class=3D"r data">0.22223</TD>
+    <TD class=3D"r data">21.34924</TD>
+    <TD class=3D"r data">7.40</TD>
+    <TD class=3D"r data">0.0095</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-4.34254</TD>
+    <TD class=3D"r data">0.42886</TD>
+    <TD class=3D"r data">295.90534</TD>
+    <TD class=3D"r data">102.53</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SUN</TH>
+    <TD class=3D"r data">0.37691</TD>
+    <TD class=3D"r data">0.21791</TD>
+    <TD class=3D"r data">8.63412</TD>
+    <TD class=3D"r data">2.99</TD>
+    <TD class=3D"r data">0.0910</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.48267</TD>
+    <TD class=3D"r data">0.54224</TD>
+    <TD class=3D"r data">21.57716</TD>
+    <TD class=3D"r data">7.48</TD>
+    <TD class=3D"r data">0.0091</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>RF</TH>
+    <TD class=3D"r data">0.01606</TD>
+    <TD class=3D"r data">0.00961</TD>
+    <TD class=3D"r data">8.06595</TD>
+    <TD class=3D"r data">2.79</TD>
+    <TD class=3D"r =
+data">0.1020</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 2.708, =
+44.213</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Backward Elimination: Step 3</DIV>
+<P>
+<P><A name=3DIDX17></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable RF Removed: R-Square =3D 0.8242 and =
+C(p) =3D=20
+5.6397</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">4</TD>
+    <TD class=3D"r data">605.94279</TD>
+    <TD class=3D"r data">151.48570</TD>
+    <TD class=3D"r data">50.39</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">43</TD>
+    <TD class=3D"r data">129.27706</TD>
+    <TD class=3D"r data">3.00644</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX18></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">815.70006</TD>
+    <TD class=3D"r data">230.64503</TD>
+    <TD class=3D"r data">37.60329</TD>
+    <TD class=3D"r data">12.51</TD>
+    <TD class=3D"r data">0.0010</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data" noWrap>-0.60127</TD>
+    <TD class=3D"r data">0.22681</TD>
+    <TD class=3D"r data">21.12892</TD>
+    <TD class=3D"r data">7.03</TD>
+    <TD class=3D"r data">0.0112</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-4.47051</TD>
+    <TD class=3D"r data">0.43069</TD>
+    <TD class=3D"r data">323.92304</TD>
+    <TD class=3D"r data">107.74</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>SUN</TH>
+    <TD class=3D"r data">0.26351</TD>
+    <TD class=3D"r data">0.21136</TD>
+    <TD class=3D"r data">4.67315</TD>
+    <TD class=3D"r data">1.55</TD>
+    <TD class=3D"r data">0.2192</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.58593</TD>
+    <TD class=3D"r data">0.54984</TD>
+    <TD class=3D"r data">25.01189</TD>
+    <TD class=3D"r data">8.32</TD>
+    <TD class=3D"r =
+data">0.0061</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 2.4456, =
+27.571</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Backward Elimination: Step 4</DIV>
+<P>
+<P><A name=3DIDX19></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable SUN Removed: R-Square =3D 0.8178 and =
+C(p) =3D=20
+5.2172</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">601.26964</TD>
+    <TD class=3D"r data">200.42321</TD>
+    <TD class=3D"r data">65.84</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">44</TD>
+    <TD class=3D"r data">133.95021</TD>
+    <TD class=3D"r data">3.04432</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX20></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">764.58451</TD>
+    <TD class=3D"r data">228.39719</TD>
+    <TD class=3D"r data">34.11616</TD>
+    <TD class=3D"r data">11.21</TD>
+    <TD class=3D"r data">0.0017</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data" noWrap>-0.55790</TD>
+    <TD class=3D"r data">0.22553</TD>
+    <TD class=3D"r data">18.62872</TD>
+    <TD class=3D"r data">6.12</TD>
+    <TD class=3D"r data">0.0173</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-4.18200</TD>
+    <TD class=3D"r data">0.36552</TD>
+    <TD class=3D"r data">398.51307</TD>
+    <TD class=3D"r data">130.90</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.20843</TD>
+    <TD class=3D"r data">0.46184</TD>
+    <TD class=3D"r data">20.84230</TD>
+    <TD class=3D"r data">6.85</TD>
+    <TD class=3D"r =
+data">0.0121</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 1.2109, =
+10.262</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">All variables left in the model are =
+significant at the=20
+0.0500 level.</DIV>
+<P><A name=3DIDX21></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Selection Summary" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D8 scope=3Dcolgroup>Summary of =
+Backward=20
+      Elimination</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Step</TH>
+    <TH class=3D"l b header" scope=3Dcol>Variable<BR>Removed</TH>
+    <TH class=3D"r b header" scope=3Dcol>Number<BR>Vars In</TH>
+    <TH class=3D"r b header" scope=3Dcol>Partial<BR>R-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>Model<BR>R-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>C(p)</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TD class=3D"l data">C</TD>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">0.0006</TD>
+    <TD class=3D"r data">0.8383</TD>
+    <TD class=3D"r data">6.1381</TD>
+    <TD class=3D"r data">0.14</TD>
+    <TD class=3D"r data">0.7121</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TD class=3D"l data">D</TD>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">0.0031</TD>
+    <TD class=3D"r data">0.8351</TD>
+    <TD class=3D"r data">4.9169</TD>
+    <TD class=3D"r data">0.80</TD>
+    <TD class=3D"r data">0.3777</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TD class=3D"l data">RF</TD>
+    <TD class=3D"r data">4</TD>
+    <TD class=3D"r data">0.0110</TD>
+    <TD class=3D"r data">0.8242</TD>
+    <TD class=3D"r data">5.6397</TD>
+    <TD class=3D"r data">2.79</TD>
+    <TD class=3D"r data">0.1020</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TD class=3D"l data">SUN</TD>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">0.0064</TD>
+    <TD class=3D"r data">0.8178</TD>
+    <TD class=3D"r data">5.2172</TD>
+    <TD class=3D"r data">1.55</TD>
+    <TD class=3D"r =
+data">0.2192</TD></TR></TBODY></TABLE></DIV></DIV><BR>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX22></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">Correlation matrix =
+</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The STEPWISE Procedure</DIV>
+<DIV class=3D"c proctitle">Model: MODEL1</DIV>
+<DIV class=3D"c proctitle">Dependent Variable: H </DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Number of Observations" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Read</TH>
+    <TD class=3D"r data">48</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Used</TH>
+    <TD class=3D"r =
+data">48</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Stepwise Selection: Step 1</DIV>
+<P>
+<P><A name=3DIDX23></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable T Entered: R-Square =3D 0.7509 and =
+C(p) =3D=20
+17.8296</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">552.05731</TD>
+    <TD class=3D"r data">552.05731</TD>
+    <TD class=3D"r data">138.65</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">46</TD>
+    <TD class=3D"r data">183.16253</TD>
+    <TD class=3D"r data">3.98179</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX24></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">208.85232</TD>
+    <TD class=3D"r data">10.65746</TD>
+    <TD class=3D"r data">1529.14932</TD>
+    <TD class=3D"r data">384.04</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-4.55271</TD>
+    <TD class=3D"r data">0.38665</TD>
+    <TD class=3D"r data">552.05731</TD>
+    <TD class=3D"r data">138.65</TD>
+    <TD class=3D"r =
+data">&lt;.0001</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 1, 1</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Stepwise Selection: Step 2</DIV>
+<P>
+<P><A name=3DIDX25></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable V Entered: R-Square =3D 0.7925 and =
+C(p) =3D=20
+9.5056</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">582.64092</TD>
+    <TD class=3D"r data">291.32046</TD>
+    <TD class=3D"r data">85.92</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">45</TD>
+    <TD class=3D"r data">152.57893</TD>
+    <TD class=3D"r data">3.39064</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX26></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">200.11126</TD>
+    <TD class=3D"r data">10.25619</TD>
+    <TD class=3D"r data">1290.78121</TD>
+    <TD class=3D"r data">380.69</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-4.11965</TD>
+    <TD class=3D"r data">0.38483</TD>
+    <TD class=3D"r data">388.56685</TD>
+    <TD class=3D"r data">114.60</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.43482</TD>
+    <TD class=3D"r data">0.47774</TD>
+    <TD class=3D"r data">30.58361</TD>
+    <TD class=3D"r data">9.02</TD>
+    <TD class=3D"r =
+data">0.0043</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 1.1633, =
+4.6533</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">Stepwise Selection: Step 3</DIV>
+<P>
+<P><A name=3DIDX27></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Variable MSL Entered: R-Square =3D 0.8178 and =
+C(p) =3D=20
+5.2172</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: ANOVA" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 scope=3Dcolgroup>Analysis of =
+Variance</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Source</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Sum of<BR>Squares</TH>
+    <TH class=3D"r b header" scope=3Dcol>Mean<BR>Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Model</TH>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">601.26964</TD>
+    <TD class=3D"r data">200.42321</TD>
+    <TD class=3D"r data">65.84</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Error</TH>
+    <TD class=3D"r data">44</TD>
+    <TD class=3D"r data">133.95021</TD>
+    <TD class=3D"r data">3.04432</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Corrected Total</TH>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">735.21985</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX28></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Parameter Estimates" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Variable</TH>
+    <TH class=3D"r b header" scope=3Dcol>Parameter<BR>Estimate</TH>
+    <TH class=3D"r b header" scope=3Dcol>Standard<BR>Error</TH>
+    <TH class=3D"r b header" scope=3Dcol>Type&nbsp;II&nbsp;SS</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Intercept</TH>
+    <TD class=3D"r data">764.58451</TD>
+    <TD class=3D"r data">228.39719</TD>
+    <TD class=3D"r data">34.11616</TD>
+    <TD class=3D"r data">11.21</TD>
+    <TD class=3D"r data">0.0017</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>MSL</TH>
+    <TD class=3D"r data" noWrap>-0.55790</TD>
+    <TD class=3D"r data">0.22553</TD>
+    <TD class=3D"r data">18.62872</TD>
+    <TD class=3D"r data">6.12</TD>
+    <TD class=3D"r data">0.0173</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>T</TH>
+    <TD class=3D"r data" noWrap>-4.18200</TD>
+    <TD class=3D"r data">0.36552</TD>
+    <TD class=3D"r data">398.51307</TD>
+    <TD class=3D"r data">130.90</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>V</TH>
+    <TD class=3D"r data" noWrap>-1.20843</TD>
+    <TD class=3D"r data">0.46184</TD>
+    <TD class=3D"r data">20.84230</TD>
+    <TD class=3D"r data">6.85</TD>
+    <TD class=3D"r =
+data">0.0121</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Bounds on condition number: 1.2109, =
+10.262</DIV>
+<P><BR>
+<P>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">All variables left in the model are =
+significant at the=20
+0.0500 level.</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">No other variable met the 0.1000 significance =
+level for=20
+entry into the model.</DIV>
+<P><A name=3DIDX29></A>
+<DIV><BR>
+<P>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"l proctitle">&nbsp;</DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Stepwise: Selection Summary" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D9 scope=3Dcolgroup>Summary of =
+Stepwise=20
+      Selection</TH></TR>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Step</TH>
+    <TH class=3D"l b header" scope=3Dcol>Variable<BR>Entered</TH>
+    <TH class=3D"l b header" scope=3Dcol>Variable<BR>Removed</TH>
+    <TH class=3D"r b header" scope=3Dcol>Number<BR>Vars In</TH>
+    <TH class=3D"r b header" scope=3Dcol>Partial<BR>R-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>Model<BR>R-Square</TH>
+    <TH class=3D"r b header" scope=3Dcol>C(p)</TH>
+    <TH class=3D"r b header" scope=3Dcol>F Value</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Pr&nbsp;&gt;&nbsp;F</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TD class=3D"l data">T</TD>
+    <TD class=3D"l data">&nbsp;</TD>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.7509</TD>
+    <TD class=3D"r data">0.7509</TD>
+    <TD class=3D"r data">17.8296</TD>
+    <TD class=3D"r data">138.65</TD>
+    <TD class=3D"r data">&lt;.0001</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TD class=3D"l data">V</TD>
+    <TD class=3D"l data">&nbsp;</TD>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">0.0416</TD>
+    <TD class=3D"r data">0.7925</TD>
+    <TD class=3D"r data">9.5056</TD>
+    <TD class=3D"r data">9.02</TD>
+    <TD class=3D"r data">0.0043</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TD class=3D"l data">MSL</TD>
+    <TD class=3D"l data">&nbsp;</TD>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">0.0253</TD>
+    <TD class=3D"r data">0.8178</TD>
+    <TD class=3D"r data">5.2172</TD>
+    <TD class=3D"r data">6.12</TD>
+    <TD=20
+class=3D"r =
+data">0.0173</TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV></BODY></HTML=
+>
